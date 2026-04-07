@@ -1,325 +1,133 @@
 {
   "meta": {
     "timestamp": "2026-04-07 14:01",
-    "cycle_type": "auto",
+    "cycle_type": "crypto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 497,
-    "entries": 1,
+    "tickers_scanned": 18,
+    "entries": 0,
     "exits": 0,
-    "on_watch": 13,
-    "portfolio_value": 100247.42,
-    "cash": 75188.99,
-    "buying_power": 175436.41
+    "on_watch": 0,
+    "portfolio_value": 100245.98,
+    "cash": 70197.23,
+    "buying_power": 170443.21
   },
   "trades": {
-    "buys": [
-      {
-        "ticker": "ALLE",
-        "score": 4,
-        "price": 138.56,
-        "stop": 131.41,
-        "target": 149.29
-      }
-    ],
+    "buys": [],
     "closes": []
   },
-  "watch_list": [
-    {
-      "ticker": "AMP",
-      "score": 3,
-      "price": 428.8
-    },
-    {
-      "ticker": "BALL",
-      "score": 3,
-      "price": 59.15
-    },
-    {
-      "ticker": "EL",
-      "score": 3,
-      "price": 69.3
-    },
-    {
-      "ticker": "GILD",
-      "score": 3,
-      "price": 138.56
-    },
-    {
-      "ticker": "GNRC",
-      "score": 3,
-      "price": 188.57
-    },
-    {
-      "ticker": "HD",
-      "score": 3,
-      "price": 315.85
-    },
-    {
-      "ticker": "IT",
-      "score": 3,
-      "price": 149.41
-    },
-    {
-      "ticker": "IVZ",
-      "score": 3,
-      "price": 22.66
-    },
-    {
-      "ticker": "LEN",
-      "score": 3,
-      "price": 84.89
-    },
-    {
-      "ticker": "PEP",
-      "score": 3,
-      "price": 153.49
-    },
-    {
-      "ticker": "SOLV",
-      "score": 3,
-      "price": 62.54
-    },
-    {
-      "ticker": "TMUS",
-      "score": 3,
-      "price": 201.3
-    },
-    {
-      "ticker": "VZ",
-      "score": 3,
-      "price": 48.67
-    }
-  ],
-  "open_positions": {
-    "AKAM": {
-      "symbol": "AKAM",
-      "qty": 44.0,
-      "avg_entry": 112.39,
-      "market_val": 4985.2,
-      "unrealized_pnl": 40.04,
-      "unrealized_pct": 0.8099999999999999,
-      "current_price": 113.3
-    },
-    "BKR": {
-      "symbol": "BKR",
-      "qty": 83.0,
-      "avg_entry": 60.26,
-      "market_val": 5075.865,
-      "unrealized_pnl": 74.285,
-      "unrealized_pct": 1.485,
-      "current_price": 61.155
-    },
-    "CTRA": {
-      "symbol": "CTRA",
-      "qty": 148.0,
-      "avg_entry": 33.68,
-      "market_val": 5193.32,
-      "unrealized_pnl": 208.68,
-      "unrealized_pct": 4.186,
-      "current_price": 35.09
-    },
-    "EQT": {
-      "symbol": "EQT",
-      "qty": 81.0,
-      "avg_entry": 61.23,
-      "market_val": 4895.64,
-      "unrealized_pnl": -63.99,
-      "unrealized_pct": -1.29,
-      "current_price": 60.44
-    },
-    "QCOM": {
-      "symbol": "QCOM",
-      "qty": 40.0,
-      "avg_entry": 123.0,
-      "market_val": 4908.4,
-      "unrealized_pnl": -11.6,
-      "unrealized_pct": -0.23600000000000002,
-      "current_price": 122.71
-    }
-  },
+  "watch_list": [],
+  "open_positions": {},
   "top_signals": [
     {
-      "ticker": "ALLE",
-      "score": 4,
-      "action": "BUY \u2014 signal strong",
-      "price": 138.56
-    },
-    {
-      "ticker": "QCOM",
-      "score": 4,
+      "ticker": "ADA/USD",
+      "score": 1,
       "action": "HOLD",
-      "price": 122.73
+      "price": 0.242764
     },
     {
-      "ticker": "AMP",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 428.8
+      "ticker": "ATOM/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 1.716869
     },
     {
-      "ticker": "BALL",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 59.15
+      "ticker": "XLM/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 0.15465
     },
     {
-      "ticker": "EL",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 69.3
+      "ticker": "ICP/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 2.288045
     },
     {
-      "ticker": "GILD",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 138.56
+      "ticker": "BTC/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 68426.273438
     },
     {
-      "ticker": "GNRC",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 188.57
+      "ticker": "ETH/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 2085.940186
     },
     {
-      "ticker": "HD",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 315.85
+      "ticker": "SOL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 79.669357
     },
     {
-      "ticker": "IT",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 149.41
+      "ticker": "XRP/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.300942
     },
     {
-      "ticker": "IVZ",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 22.66
+      "ticker": "AVAX/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 8.631641
     },
     {
-      "ticker": "LEN",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 84.89
+      "ticker": "DOGE/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.091081
     },
     {
-      "ticker": "PEP",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 153.49
+      "ticker": "DOT/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.220671
     },
     {
-      "ticker": "SOLV",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 62.54
+      "ticker": "BCH/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 432.74408
     },
     {
-      "ticker": "TMUS",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 201.3
+      "ticker": "ALGO/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.110922
     },
     {
-      "ticker": "VZ",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 48.67
+      "ticker": "NEAR/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.24504
     },
     {
-      "ticker": "ALB",
-      "score": 2,
-      "action": "",
-      "price": 171.62
+      "ticker": "FIL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.858519
     },
     {
-      "ticker": "ALGN",
-      "score": 2,
-      "action": "",
-      "price": 167.09
+      "ticker": "BNB/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 602.952881
     },
     {
-      "ticker": "AOS",
-      "score": 2,
-      "action": "",
-      "price": 63.83
+      "ticker": "LINK/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 8.603808
     },
     {
-      "ticker": "APO",
-      "score": 2,
-      "action": "",
-      "price": 105.12
-    },
-    {
-      "ticker": "APTV",
-      "score": 2,
-      "action": "",
-      "price": 58.17
-    },
-    {
-      "ticker": "ASML",
-      "score": 2,
-      "action": "",
-      "price": 1286.95
-    },
-    {
-      "ticker": "AXON",
-      "score": 2,
-      "action": "",
-      "price": 371.09
-    },
-    {
-      "ticker": "BBWI",
-      "score": 2,
-      "action": "",
-      "price": 17.66
-    },
-    {
-      "ticker": "BLDR",
-      "score": 2,
-      "action": "",
-      "price": 78.05
-    },
-    {
-      "ticker": "BMY",
-      "score": 2,
-      "action": "",
-      "price": 57.99
-    },
-    {
-      "ticker": "BSX",
-      "score": 2,
-      "action": "",
-      "price": 61.79
-    },
-    {
-      "ticker": "CAT",
-      "score": 2,
-      "action": "",
-      "price": 717.32
-    },
-    {
-      "ticker": "CB",
-      "score": 2,
-      "action": "",
-      "price": 327.02
-    },
-    {
-      "ticker": "CHRW",
-      "score": 2,
-      "action": "",
-      "price": 164.82
-    },
-    {
-      "ticker": "COO",
-      "score": 2,
-      "action": "",
-      "price": 68.89
+      "ticker": "LTC/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 53.317612
     }
   ],
   "errors": []
