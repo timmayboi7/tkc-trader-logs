@@ -1,0 +1,14 @@
+{
+  "readme": true,
+  "description": "TKC Studio Stock AI \u2014 Trade Logs",
+  "structure": {
+    "logs/": "Per-cycle trade activity (buys, closes, signals)",
+    "portfolio/": "Daily portfolio snapshots",
+    "errors/": "Any errors caught during cycles",
+    "summary/": "latest.json = most recent cycle, YYYY-MM-DD_daily.json = daily rollup"
+  },
+  "machines": {
+    "primary": "Tim's machine",
+    "dads-pc": "Dad's machine"
+  }
+}
