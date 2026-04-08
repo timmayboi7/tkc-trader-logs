@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "timestamp": "2026-04-08 14:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 11,
+    "portfolio_value": 100486.37,
+    "cash": 70197.23,
+    "buying_power": 170683.6
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ADP",
+      "score": 3,
+      "price": 200.52
+    },
+    {
+      "ticker": "CSGP",
+      "score": 3,
+      "price": 38.91
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "price": 192.24
+    },
+    {
+      "ticker": "EPAM",
+      "score": 3,
+      "price": 130.65
+    },
+    {
+      "ticker": "IT",
+      "score": 3,
+      "price": 149.15
+    },
+    {
+      "ticker": "PAYX",
+      "score": 3,
+      "price": 90.0
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "price": 168.18
+    },
+    {
+      "ticker": "T",
+      "score": 3,
+      "price": 27.17
+    },
+    {
+      "ticker": "TEAM",
+      "score": 3,
+      "price": 64.01
+    },
+    {
+      "ticker": "VZ",
+      "score": 3,
+      "price": 47.47
+    },
+    {
+      "ticker": "WDAY",
+      "score": 3,
+      "price": 121.22
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 5041.96,
+      "unrealized_pnl": 96.8,
+      "unrealized_pct": 1.957,
+      "current_price": 114.59
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5170.32,
+      "unrealized_pnl": 178.56,
+      "unrealized_pct": 3.5770000000000004,
+      "current_price": 143.62
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5239.79,
+      "unrealized_pnl": 238.21,
+      "unrealized_pct": 4.763,
+      "current_price": 63.13
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "qty": 148.0,
+      "avg_entry": 33.68,
+      "market_val": 4933.58,
+      "unrealized_pnl": -51.06,
+      "unrealized_pct": -1.024,
+      "current_price": 33.335
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "qty": 81.0,
+      "avg_entry": 61.23,
+      "market_val": 4851.09,
+      "unrealized_pnl": -108.54,
+      "unrealized_pct": -2.188,
+      "current_price": 59.89
+    },
+    "QCOM": {
+      "symbol": "QCOM",
+      "qty": 40.0,
+      "avg_entry": 123.0,
+      "market_val": 5052.4,
+      "unrealized_pnl": 132.4,
+      "unrealized_pct": 2.691,
+      "current_price": 126.31
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ADP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 200.52
+    },
+    {
+      "ticker": "CSGP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 38.91
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 192.24
+    },
+    {
+      "ticker": "EPAM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 130.65
+    },
+    {
+      "ticker": "EQT",
+      "score": 3,
+      "action": "HOLD",
+      "price": 59.85
+    },
+    {
+      "ticker": "IT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 149.15
+    },
+    {
+      "ticker": "PAYX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 90.0
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 168.18
+    },
+    {
+      "ticker": "T",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 27.17
+    },
+    {
+      "ticker": "TEAM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 64.01
+    },
+    {
+      "ticker": "VZ",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.47
+    },
+    {
+      "ticker": "WDAY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 121.22
+    },
+    {
+      "ticker": "ACN",
+      "score": 2,
+      "action": "",
+      "price": 193.78
+    },
+    {
+      "ticker": "ALB",
+      "score": 2,
+      "action": "",
+      "price": 175.58
+    },
+    {
+      "ticker": "ALGN",
+      "score": 2,
+      "action": "",
+      "price": 176.68
+    },
+    {
+      "ticker": "CHTR",
+      "score": 2,
+      "action": "",
+      "price": 220.41
+    },
+    {
+      "ticker": "CME",
+      "score": 2,
+      "action": "",
+      "price": 304.03
+    },
+    {
+      "ticker": "DGX",
+      "score": 2,
+      "action": "",
+      "price": 198.05
+    },
+    {
+      "ticker": "ED",
+      "score": 2,
+      "action": "",
+      "price": 112.99
+    },
+    {
+      "ticker": "FTNT",
+      "score": 2,
+      "action": "",
+      "price": 83.07
+    },
+    {
+      "ticker": "GILD",
+      "score": 2,
+      "action": "",
+      "price": 140.54
+    },
+    {
+      "ticker": "GIS",
+      "score": 2,
+      "action": "",
+      "price": 36.5
+    },
+    {
+      "ticker": "HII",
+      "score": 2,
+      "action": "",
+      "price": 410.18
+    },
+    {
+      "ticker": "HON",
+      "score": 2,
+      "action": "",
+      "price": 229.49
+    },
+    {
+      "ticker": "KO",
+      "score": 2,
+      "action": "",
+      "price": 76.92
+    },
+    {
+      "ticker": "KR",
+      "score": 2,
+      "action": "",
+      "price": 70.57
+    },
+    {
+      "ticker": "LHX",
+      "score": 2,
+      "action": "",
+      "price": 360.35
+    },
+    {
+      "ticker": "LMT",
+      "score": 2,
+      "action": "",
+      "price": 627.08
+    },
+    {
+      "ticker": "MGM",
+      "score": 2,
+      "action": "",
+      "price": 37.26
+    },
+    {
+      "ticker": "NKE",
+      "score": 2,
+      "action": "",
+      "price": 42.81
+    }
+  ],
+  "errors": []
+}
