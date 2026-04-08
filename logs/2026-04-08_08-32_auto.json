@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "timestamp": "2026-04-08 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 9,
+    "portfolio_value": 100112.1,
+    "cash": 70197.23,
+    "buying_power": 170309.33
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "price": 132.32
+    },
+    {
+      "ticker": "CF",
+      "score": 3,
+      "price": 114.09
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "price": 190.72
+    },
+    {
+      "ticker": "FANG",
+      "score": 3,
+      "price": 177.01
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 32.19
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "price": 69.17
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "price": 164.32
+    },
+    {
+      "ticker": "VZ",
+      "score": 3,
+      "price": 47.53
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "price": 151.4
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 5127.76,
+      "unrealized_pnl": 182.6,
+      "unrealized_pct": 3.692,
+      "current_price": 116.54
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5122.44,
+      "unrealized_pnl": 130.68,
+      "unrealized_pct": 2.618,
+      "current_price": 142.29
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5010.295,
+      "unrealized_pnl": 8.715,
+      "unrealized_pct": 0.174,
+      "current_price": 60.365
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "qty": 148.0,
+      "avg_entry": 33.68,
+      "market_val": 4746.36,
+      "unrealized_pnl": -238.28,
+      "unrealized_pct": -4.78,
+      "current_price": 32.07
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "qty": 81.0,
+      "avg_entry": 61.23,
+      "market_val": 4780.215,
+      "unrealized_pnl": -179.415,
+      "unrealized_pct": -3.618,
+      "current_price": 59.015
+    },
+    "QCOM": {
+      "symbol": "QCOM",
+      "qty": 40.0,
+      "avg_entry": 123.0,
+      "market_val": 5127.8,
+      "unrealized_pnl": 207.8,
+      "unrealized_pct": 4.224,
+      "current_price": 128.195
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 132.32
+    },
+    {
+      "ticker": "CF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 114.09
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 190.72
+    },
+    {
+      "ticker": "EQT",
+      "score": 3,
+      "action": "HOLD",
+      "price": 58.95
+    },
+    {
+      "ticker": "FANG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 177.01
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 32.19
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 69.17
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 164.32
+    },
+    {
+      "ticker": "VZ",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.53
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 151.4
+    },
+    {
+      "ticker": "ALGN",
+      "score": 2,
+      "action": "",
+      "price": 166.87
+    },
+    {
+      "ticker": "AMP",
+      "score": 2,
+      "action": "",
+      "price": 432.06
+    },
+    {
+      "ticker": "AXON",
+      "score": 2,
+      "action": "",
+      "price": 372.87
+    },
+    {
+      "ticker": "BALL",
+      "score": 2,
+      "action": "",
+      "price": 60.1
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 326.22
+    },
+    {
+      "ticker": "CBOE",
+      "score": 2,
+      "action": "",
+      "price": 287.64
+    },
+    {
+      "ticker": "CTRA",
+      "score": 2,
+      "action": "HOLD",
+      "price": 32.05
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.15
+    },
+    {
+      "ticker": "DD",
+      "score": 2,
+      "action": "",
+      "price": 45.53
+    },
+    {
+      "ticker": "DGX",
+      "score": 2,
+      "action": "",
+      "price": 196.88
+    },
+    {
+      "ticker": "DVN",
+      "score": 2,
+      "action": "",
+      "price": 45.88
+    },
+    {
+      "ticker": "ED",
+      "score": 2,
+      "action": "",
+      "price": 112.28
+    },
+    {
+      "ticker": "EVRG",
+      "score": 2,
+      "action": "",
+      "price": 82.09
+    },
+    {
+      "ticker": "GILD",
+      "score": 2,
+      "action": "",
+      "price": 139.45
+    },
+    {
+      "ticker": "HII",
+      "score": 2,
+      "action": "",
+      "price": 406.3
+    },
+    {
+      "ticker": "HLT",
+      "score": 2,
+      "action": "",
+      "price": 302.16
+    },
+    {
+      "ticker": "HON",
+      "score": 2,
+      "action": "",
+      "price": 229.59
+    },
+    {
+      "ticker": "HSY",
+      "score": 2,
+      "action": "",
+      "price": 207.24
+    },
+    {
+      "ticker": "IT",
+      "score": 2,
+      "action": "",
+      "price": 153.12
+    },
+    {
+      "ticker": "JNJ",
+      "score": 2,
+      "action": "",
+      "price": 235.7
+    }
+  ],
+  "errors": []
+}
