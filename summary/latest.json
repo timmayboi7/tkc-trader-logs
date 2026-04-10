@@ -1,351 +1,133 @@
 {
   "meta": {
     "timestamp": "2026-04-10 11:01",
-    "cycle_type": "auto",
+    "cycle_type": "crypto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 497,
+    "tickers_scanned": 18,
     "entries": 0,
     "exits": 0,
-    "on_watch": 18,
-    "portfolio_value": 99658.47,
+    "on_watch": 0,
+    "portfolio_value": 99680.67,
     "cash": 70197.23,
-    "buying_power": 169855.7
+    "buying_power": 169877.9
   },
   "trades": {
     "buys": [],
     "closes": []
   },
-  "watch_list": [
-    {
-      "ticker": "EPAM",
-      "score": 4,
-      "price": 123.36
-    },
-    {
-      "ticker": "FICO",
-      "score": 4,
-      "price": 932.01
-    },
-    {
-      "ticker": "VZ",
-      "score": 4,
-      "price": 46.26
-    },
-    {
-      "ticker": "AJG",
-      "score": 3,
-      "price": 206.75
-    },
-    {
-      "ticker": "APO",
-      "score": 3,
-      "price": 103.27
-    },
-    {
-      "ticker": "CTSH",
-      "score": 3,
-      "price": 57.4
-    },
-    {
-      "ticker": "CVX",
-      "score": 3,
-      "price": 187.69
-    },
-    {
-      "ticker": "DGX",
-      "score": 3,
-      "price": 191.98
-    },
-    {
-      "ticker": "GDDY",
-      "score": 3,
-      "price": 79.42
-    },
-    {
-      "ticker": "GEN",
-      "score": 3,
-      "price": 18.24
-    },
-    {
-      "ticker": "GIS",
-      "score": 3,
-      "price": 35.88
-    },
-    {
-      "ticker": "IBM",
-      "score": 3,
-      "price": 233.28
-    },
-    {
-      "ticker": "J",
-      "score": 3,
-      "price": 123.07
-    },
-    {
-      "ticker": "KR",
-      "score": 3,
-      "price": 69.03
-    },
-    {
-      "ticker": "MPC",
-      "score": 3,
-      "price": 220.43
-    },
-    {
-      "ticker": "NDAQ",
-      "score": 3,
-      "price": 82.5
-    },
-    {
-      "ticker": "PSX",
-      "score": 3,
-      "price": 159.03
-    },
-    {
-      "ticker": "T",
-      "score": 3,
-      "price": 26.41
-    }
-  ],
-  "open_positions": {
-    "AKAM": {
-      "symbol": "AKAM",
-      "qty": 44.0,
-      "avg_entry": 112.39,
-      "market_val": 4170.76,
-      "unrealized_pnl": -774.4,
-      "unrealized_pct": -15.659999999999998,
-      "current_price": 94.79
-    },
-    "ALLE": {
-      "symbol": "ALLE",
-      "qty": 36.0,
-      "avg_entry": 138.66,
-      "market_val": 5223.78,
-      "unrealized_pnl": 232.02,
-      "unrealized_pct": 4.648,
-      "current_price": 145.105
-    },
-    "BKR": {
-      "symbol": "BKR",
-      "qty": 83.0,
-      "avg_entry": 60.26,
-      "market_val": 5200.78,
-      "unrealized_pnl": 199.2,
-      "unrealized_pct": 3.9829999999999997,
-      "current_price": 62.66
-    },
-    "CTRA": {
-      "symbol": "CTRA",
-      "qty": 148.0,
-      "avg_entry": 33.68,
-      "market_val": 4949.12,
-      "unrealized_pnl": -35.52,
-      "unrealized_pct": -0.713,
-      "current_price": 33.44
-    },
-    "EQT": {
-      "symbol": "EQT",
-      "qty": 81.0,
-      "avg_entry": 61.23,
-      "market_val": 4762.8,
-      "unrealized_pnl": -196.83,
-      "unrealized_pct": -3.9690000000000003,
-      "current_price": 58.8
-    },
-    "QCOM": {
-      "symbol": "QCOM",
-      "qty": 40.0,
-      "avg_entry": 123.0,
-      "market_val": 5154.0,
-      "unrealized_pnl": 234.0,
-      "unrealized_pct": 4.756,
-      "current_price": 128.85
-    }
-  },
+  "watch_list": [],
+  "open_positions": {},
   "top_signals": [
     {
-      "ticker": "EPAM",
-      "score": 4,
-      "action": "WATCH \u2014 near threshold",
-      "price": 123.36
-    },
-    {
-      "ticker": "FICO",
-      "score": 4,
-      "action": "WATCH \u2014 near threshold",
-      "price": 932.01
-    },
-    {
-      "ticker": "VZ",
-      "score": 4,
-      "action": "WATCH \u2014 near threshold",
-      "price": 46.26
-    },
-    {
-      "ticker": "AJG",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 206.75
-    },
-    {
-      "ticker": "AKAM",
-      "score": 3,
+      "ticker": "BNB/USD",
+      "score": 1,
       "action": "HOLD",
-      "price": 94.79
+      "price": 603.537415
     },
     {
-      "ticker": "APO",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 103.27
-    },
-    {
-      "ticker": "CTSH",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 57.4
-    },
-    {
-      "ticker": "CVX",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 187.69
-    },
-    {
-      "ticker": "DGX",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 191.98
-    },
-    {
-      "ticker": "EQT",
-      "score": 3,
+      "ticker": "ALGO/USD",
+      "score": 1,
       "action": "HOLD",
-      "price": 58.83
+      "price": 0.112358
     },
     {
-      "ticker": "GDDY",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 79.42
+      "ticker": "XLM/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 0.153807
     },
     {
-      "ticker": "GEN",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 18.24
+      "ticker": "SOL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 84.330482
     },
     {
-      "ticker": "GIS",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 35.88
+      "ticker": "XRP/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.349268
     },
     {
-      "ticker": "IBM",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 233.28
+      "ticker": "ADA/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.253838
     },
     {
-      "ticker": "J",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 123.07
+      "ticker": "DOGE/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.093306
     },
     {
-      "ticker": "KR",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 69.03
+      "ticker": "DOT/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.309218
     },
     {
-      "ticker": "MPC",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 220.43
+      "ticker": "LINK/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 9.057592
     },
     {
-      "ticker": "NDAQ",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 82.5
+      "ticker": "LTC/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 55.041687
     },
     {
-      "ticker": "PSX",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 159.03
+      "ticker": "AVAX/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 9.41912
     },
     {
-      "ticker": "T",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 26.41
+      "ticker": "BCH/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 442.850006
     },
     {
-      "ticker": "ABT",
-      "score": 2,
-      "action": "",
-      "price": 100.5
+      "ticker": "NEAR/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 1.37632
     },
     {
-      "ticker": "ACGL",
-      "score": 2,
-      "action": "",
-      "price": 96.27
+      "ticker": "FIL/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.910863
     },
     {
-      "ticker": "ACN",
-      "score": 2,
-      "action": "",
-      "price": 177.96
+      "ticker": "ETH/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 2222.222168
     },
     {
-      "ticker": "ADBE",
-      "score": 2,
-      "action": "",
-      "price": 225.93
+      "ticker": "BTC/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 72403.539062
     },
     {
-      "ticker": "ADP",
-      "score": 2,
-      "action": "",
-      "price": 190.73
+      "ticker": "ATOM/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 1.831121
     },
     {
-      "ticker": "ALB",
-      "score": 2,
-      "action": "",
-      "price": 175.74
-    },
-    {
-      "ticker": "ALGN",
-      "score": 2,
-      "action": "",
-      "price": 174.81
-    },
-    {
-      "ticker": "AXON",
-      "score": 2,
-      "action": "",
-      "price": 344.58
-    },
-    {
-      "ticker": "BDX",
-      "score": 2,
-      "action": "",
-      "price": 154.48
-    },
-    {
-      "ticker": "BMY",
-      "score": 2,
-      "action": "",
-      "price": 58.83
+      "ticker": "ICP/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 2.533746
     }
   ],
   "errors": []
