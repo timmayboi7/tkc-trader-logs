@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "timestamp": "2026-04-14 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 495,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 15,
+    "portfolio_value": 99526.14,
+    "cash": 58417.66,
+    "buying_power": 146241.4
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "GIS",
+      "score": 4,
+      "price": 34.32
+    },
+    {
+      "ticker": "T",
+      "score": 4,
+      "price": 25.11
+    },
+    {
+      "ticker": "VZ",
+      "score": 4,
+      "price": 44.4
+    },
+    {
+      "ticker": "CPB",
+      "score": 3,
+      "price": 20.14
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "price": 188.66
+    },
+    {
+      "ticker": "DVN",
+      "score": 3,
+      "price": 46.56
+    },
+    {
+      "ticker": "GILD",
+      "score": 3,
+      "price": 138.07
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 31.71
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "price": 66.3
+    },
+    {
+      "ticker": "OKE",
+      "score": 3,
+      "price": 83.7
+    },
+    {
+      "ticker": "OXY",
+      "score": 3,
+      "price": 56.51
+    },
+    {
+      "ticker": "PEG",
+      "score": 3,
+      "price": 80.92
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "price": 159.4
+    },
+    {
+      "ticker": "WMB",
+      "score": 3,
+      "price": 70.66
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "price": 149.14
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4209.92,
+      "unrealized_pnl": -735.24,
+      "unrealized_pct": -14.868,
+      "current_price": 95.68
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5284.08,
+      "unrealized_pnl": 292.32,
+      "unrealized_pct": 5.856,
+      "current_price": 146.78
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5152.225,
+      "unrealized_pnl": 150.645,
+      "unrealized_pct": 3.012,
+      "current_price": 62.075
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "qty": 148.0,
+      "avg_entry": 33.68,
+      "market_val": 4825.2588,
+      "unrealized_pnl": -159.3812,
+      "unrealized_pct": -3.197,
+      "current_price": 32.6031
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 9942.563638526,
+      "avg_entry": 1.181858123,
+      "market_val": 11702.397403,
+      "unrealized_pnl": -48.302197,
+      "unrealized_pct": -0.411,
+      "current_price": 1.177
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "qty": 81.0,
+      "avg_entry": 61.23,
+      "market_val": 4648.995,
+      "unrealized_pnl": -310.635,
+      "unrealized_pct": -6.263000000000001,
+      "current_price": 57.395
+    },
+    "QCOM": {
+      "symbol": "QCOM",
+      "qty": 40.0,
+      "avg_entry": 123.0,
+      "market_val": 5285.6,
+      "unrealized_pnl": 365.6,
+      "unrealized_pct": 7.431,
+      "current_price": 132.14
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "GIS",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 34.32
+    },
+    {
+      "ticker": "T",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 25.11
+    },
+    {
+      "ticker": "VZ",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 44.4
+    },
+    {
+      "ticker": "AKAM",
+      "score": 3,
+      "action": "HOLD",
+      "price": 94.94
+    },
+    {
+      "ticker": "CPB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 20.14
+    },
+    {
+      "ticker": "CTRA",
+      "score": 3,
+      "action": "HOLD",
+      "price": 32.56
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 188.66
+    },
+    {
+      "ticker": "DVN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.56
+    },
+    {
+      "ticker": "EQT",
+      "score": 3,
+      "action": "HOLD",
+      "price": 57.35
+    },
+    {
+      "ticker": "GILD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 138.07
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 31.71
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 66.3
+    },
+    {
+      "ticker": "OKE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 83.7
+    },
+    {
+      "ticker": "OXY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 56.51
+    },
+    {
+      "ticker": "PEG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 80.92
+    },
+    {
+      "ticker": "PSX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 159.4
+    },
+    {
+      "ticker": "WMB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 70.66
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 149.14
+    },
+    {
+      "ticker": "ABBV",
+      "score": 2,
+      "action": "",
+      "price": 204.8
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 111.71
+    },
+    {
+      "ticker": "ARE",
+      "score": 2,
+      "action": "",
+      "price": 43.5
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 186.95
+    },
+    {
+      "ticker": "BKR",
+      "score": 2,
+      "action": "HOLD",
+      "price": 62.18
+    },
+    {
+      "ticker": "CAG",
+      "score": 2,
+      "action": "",
+      "price": 14.46
+    },
+    {
+      "ticker": "CAH",
+      "score": 2,
+      "action": "",
+      "price": 212.93
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 327.74
+    },
+    {
+      "ticker": "CL",
+      "score": 2,
+      "action": "",
+      "price": 83.52
+    },
+    {
+      "ticker": "CMS",
+      "score": 2,
+      "action": "",
+      "price": 78.07
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 121.68
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.7
+    }
+  ],
+  "errors": []
+}
