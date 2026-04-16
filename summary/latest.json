@@ -1,133 +1,311 @@
 {
   "meta": {
-    "timestamp": "2026-04-15 14:02",
-    "cycle_type": "crypto",
+    "timestamp": "2026-04-16 08:33",
+    "cycle_type": "auto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 18,
+    "tickers_scanned": 493,
     "entries": 0,
     "exits": 0,
-    "on_watch": 0,
-    "portfolio_value": 98966.56,
+    "on_watch": 10,
+    "portfolio_value": 100755.25,
     "cash": 54904.56,
-    "buying_power": 133281.86
+    "buying_power": 133213.0
   },
   "trades": {
     "buys": [],
     "closes": []
   },
-  "watch_list": [],
-  "open_positions": {},
+  "watch_list": [
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "price": 129.8
+    },
+    {
+      "ticker": "CL",
+      "score": 3,
+      "price": 83.38
+    },
+    {
+      "ticker": "DE",
+      "score": 3,
+      "price": 571.71
+    },
+    {
+      "ticker": "DVA",
+      "score": 3,
+      "price": 145.29
+    },
+    {
+      "ticker": "DVN",
+      "score": 3,
+      "price": 45.4
+    },
+    {
+      "ticker": "EOG",
+      "score": 3,
+      "price": 132.06
+    },
+    {
+      "ticker": "GIS",
+      "score": 3,
+      "price": 34.79
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 31.81
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "price": 66.64
+    },
+    {
+      "ticker": "VZ",
+      "score": 3,
+      "price": 45.38
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4033.48,
+      "unrealized_pnl": -911.68,
+      "unrealized_pct": -18.436,
+      "current_price": 91.67
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5109.48,
+      "unrealized_pnl": 117.72,
+      "unrealized_pct": 2.358,
+      "current_price": 141.93
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 4950.95,
+      "unrealized_pnl": -50.63,
+      "unrealized_pct": -1.012,
+      "current_price": 59.65
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "qty": 148.0,
+      "avg_entry": 33.68,
+      "market_val": 4685.68,
+      "unrealized_pnl": -298.96,
+      "unrealized_pct": -5.998,
+      "current_price": 31.66
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 17360.253505272,
+      "avg_entry": 1.182403783,
+      "market_val": 22446.807782,
+      "unrealized_pnl": 1919.978364,
+      "unrealized_pct": 9.354,
+      "current_price": 1.293
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "qty": 81.0,
+      "avg_entry": 61.23,
+      "market_val": 4624.29,
+      "unrealized_pnl": -335.34,
+      "unrealized_pct": -6.761,
+      "current_price": 57.09
+    }
+  },
   "top_signals": [
     {
-      "ticker": "DOT/USD",
-      "score": 1,
+      "ticker": "AKAM",
+      "score": 3,
       "action": "HOLD",
-      "price": 1.188
+      "price": 90.38
     },
     {
-      "ticker": "ADA/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.2462
+      "ticker": "AWK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 129.8
     },
     {
-      "ticker": "ATOM/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 1.756
+      "ticker": "CL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 83.38
     },
     {
-      "ticker": "BCH/USD",
-      "score": 0,
+      "ticker": "CTRA",
+      "score": 3,
       "action": "HOLD",
-      "price": 439.890015
+      "price": 31.76
     },
     {
-      "ticker": "NEAR/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 1.407
+      "ticker": "DE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 571.71
     },
     {
-      "ticker": "ICP/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 2.473
+      "ticker": "DVA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 145.29
     },
     {
-      "ticker": "ETH/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 2358.379883
+      "ticker": "DVN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 45.4
     },
     {
-      "ticker": "SOL/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 85.0
+      "ticker": "EOG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 132.06
     },
     {
-      "ticker": "AVAX/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 9.46
+      "ticker": "GIS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 34.79
     },
     {
-      "ticker": "LTC/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 55.200001
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 31.81
     },
     {
-      "ticker": "ALGO/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 0.113
+      "ticker": "KR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 66.64
     },
     {
-      "ticker": "FIL/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 0.913
+      "ticker": "VZ",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 45.38
     },
     {
-      "ticker": "BTC/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 74414.617188
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 110.74
     },
     {
-      "ticker": "BNB/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 622.630005
+      "ticker": "AOS",
+      "score": 2,
+      "action": "",
+      "price": 63.37
     },
     {
-      "ticker": "XRP/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 1.3856
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 36.6
     },
     {
-      "ticker": "DOGE/USD",
-      "score": -2,
+      "ticker": "BKR",
+      "score": 2,
       "action": "HOLD",
-      "price": 0.09521
+      "price": 59.76
     },
     {
-      "ticker": "LINK/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 9.279
+      "ticker": "BRK-B",
+      "score": 2,
+      "action": "",
+      "price": 474.09
     },
     {
-      "ticker": "XLM/USD",
-      "score": -2,
+      "ticker": "CARR",
+      "score": 2,
+      "action": "",
+      "price": 59.05
+    },
+    {
+      "ticker": "CHTR",
+      "score": 2,
+      "action": "",
+      "price": 220.93
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 120.0
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "",
+      "price": 185.85
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.34
+    },
+    {
+      "ticker": "DD",
+      "score": 2,
+      "action": "",
+      "price": 46.06
+    },
+    {
+      "ticker": "DGX",
+      "score": 2,
+      "action": "",
+      "price": 191.71
+    },
+    {
+      "ticker": "DOV",
+      "score": 2,
+      "action": "",
+      "price": 215.07
+    },
+    {
+      "ticker": "DUK",
+      "score": 2,
+      "action": "",
+      "price": 127.81
+    },
+    {
+      "ticker": "EQT",
+      "score": 2,
       "action": "HOLD",
-      "price": 0.157077
+      "price": 57.08
+    },
+    {
+      "ticker": "FDX",
+      "score": 2,
+      "action": "",
+      "price": 364.38
+    },
+    {
+      "ticker": "GILD",
+      "score": 2,
+      "action": "",
+      "price": 139.17
+    },
+    {
+      "ticker": "GNRC",
+      "score": 2,
+      "action": "",
+      "price": 204.01
     }
   ],
   "errors": []
