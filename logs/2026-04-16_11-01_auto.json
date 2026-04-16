@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "timestamp": "2026-04-16 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 7,
+    "portfolio_value": 101811.75,
+    "cash": 54904.56,
+    "buying_power": 133713.97
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "price": 129.97
+    },
+    {
+      "ticker": "JNJ",
+      "score": 3,
+      "price": 234.07
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 31.74
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "price": 67.13
+    },
+    {
+      "ticker": "PM",
+      "score": 3,
+      "price": 156.15
+    },
+    {
+      "ticker": "RTX",
+      "score": 3,
+      "price": 195.81
+    },
+    {
+      "ticker": "WMB",
+      "score": 3,
+      "price": 70.66
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4247.32,
+      "unrealized_pnl": -697.84,
+      "unrealized_pct": -14.112,
+      "current_price": 96.53
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5157.0,
+      "unrealized_pnl": 165.24,
+      "unrealized_pct": 3.3099999999999996,
+      "current_price": 143.25
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5051.38,
+      "unrealized_pnl": 49.8,
+      "unrealized_pct": 0.996,
+      "current_price": 60.86
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "qty": 148.0,
+      "avg_entry": 33.68,
+      "market_val": 4747.1,
+      "unrealized_pnl": -237.54,
+      "unrealized_pct": -4.765,
+      "current_price": 32.075
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 17360.253505272,
+      "avg_entry": 1.182403783,
+      "market_val": 23002.335894,
+      "unrealized_pnl": 2475.506476,
+      "unrealized_pct": 12.06,
+      "current_price": 1.325
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "qty": 81.0,
+      "avg_entry": 61.23,
+      "market_val": 4702.05,
+      "unrealized_pnl": -257.58,
+      "unrealized_pct": -5.194,
+      "current_price": 58.05
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 129.97
+    },
+    {
+      "ticker": "JNJ",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 234.07
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 31.74
+    },
+    {
+      "ticker": "KR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 67.13
+    },
+    {
+      "ticker": "PM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 156.15
+    },
+    {
+      "ticker": "RTX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 195.81
+    },
+    {
+      "ticker": "WMB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 70.66
+    },
+    {
+      "ticker": "ABT",
+      "score": 2,
+      "action": "",
+      "price": 96.73
+    },
+    {
+      "ticker": "ACGL",
+      "score": 2,
+      "action": "",
+      "price": 96.85
+    },
+    {
+      "ticker": "AKAM",
+      "score": 2,
+      "action": "HOLD",
+      "price": 96.56
+    },
+    {
+      "ticker": "AOS",
+      "score": 2,
+      "action": "",
+      "price": 63.69
+    },
+    {
+      "ticker": "ASML",
+      "score": 2,
+      "action": "",
+      "price": 1432.57
+    },
+    {
+      "ticker": "BDX",
+      "score": 2,
+      "action": "",
+      "price": 154.21
+    },
+    {
+      "ticker": "BRK-B",
+      "score": 2,
+      "action": "",
+      "price": 472.95
+    },
+    {
+      "ticker": "CARR",
+      "score": 2,
+      "action": "",
+      "price": 59.71
+    },
+    {
+      "ticker": "CL",
+      "score": 2,
+      "action": "",
+      "price": 83.72
+    },
+    {
+      "ticker": "COO",
+      "score": 2,
+      "action": "",
+      "price": 69.75
+    },
+    {
+      "ticker": "CTRA",
+      "score": 2,
+      "action": "HOLD",
+      "price": 32.08
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "",
+      "price": 187.22
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.11
+    },
+    {
+      "ticker": "DD",
+      "score": 2,
+      "action": "",
+      "price": 46.48
+    },
+    {
+      "ticker": "DE",
+      "score": 2,
+      "action": "",
+      "price": 582.12
+    },
+    {
+      "ticker": "DOV",
+      "score": 2,
+      "action": "",
+      "price": 216.38
+    },
+    {
+      "ticker": "DUK",
+      "score": 2,
+      "action": "",
+      "price": 127.87
+    },
+    {
+      "ticker": "DVN",
+      "score": 2,
+      "action": "",
+      "price": 45.9
+    },
+    {
+      "ticker": "ED",
+      "score": 2,
+      "action": "",
+      "price": 109.83
+    },
+    {
+      "ticker": "EQT",
+      "score": 2,
+      "action": "HOLD",
+      "price": 58.06
+    },
+    {
+      "ticker": "GILD",
+      "score": 2,
+      "action": "",
+      "price": 138.69
+    },
+    {
+      "ticker": "GIS",
+      "score": 2,
+      "action": "",
+      "price": 35.08
+    },
+    {
+      "ticker": "HIG",
+      "score": 2,
+      "action": "",
+      "price": 137.16
+    }
+  ],
+  "errors": []
+}
