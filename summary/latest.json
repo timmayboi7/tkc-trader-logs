@@ -1,6 +1,6 @@
 {
   "meta": {
-    "timestamp": "2026-04-18 11:06",
+    "timestamp": "2026-04-18 14:01",
     "cycle_type": "auto",
     "machine": "primary",
     "dry_run": false
@@ -10,7 +10,7 @@
     "entries": 0,
     "exits": 0,
     "on_watch": 18,
-    "portfolio_value": 100880.15,
+    "portfolio_value": 100886.4,
     "cash": 54904.56,
     "buying_power": 133494.14
   },
@@ -151,10 +151,10 @@
       "symbol": "DOTUSD",
       "qty": 17360.253505272,
       "avg_entry": 1.182403783,
-      "market_val": 22290.565501,
-      "unrealized_pnl": 1763.736083,
-      "unrealized_pct": 8.591999999999999,
-      "current_price": 1.284
+      "market_val": 22296.815192,
+      "unrealized_pnl": 1769.985774,
+      "unrealized_pct": 8.623,
+      "current_price": 1.28436
     },
     "EQT": {
       "symbol": "EQT",
