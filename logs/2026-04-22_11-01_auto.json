@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "timestamp": "2026-04-22 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 22,
+    "portfolio_value": 100600.08,
+    "cash": 75970.01,
+    "buying_power": 176569.76
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ABBV",
+      "score": 3,
+      "price": 202.62
+    },
+    {
+      "ticker": "AIG",
+      "score": 3,
+      "price": 75.54
+    },
+    {
+      "ticker": "CL",
+      "score": 3,
+      "price": 82.02
+    },
+    {
+      "ticker": "COR",
+      "score": 3,
+      "price": 306.49
+    },
+    {
+      "ticker": "CTVA",
+      "score": 3,
+      "price": 79.6
+    },
+    {
+      "ticker": "DUK",
+      "score": 3,
+      "price": 126.12
+    },
+    {
+      "ticker": "EVRG",
+      "score": 3,
+      "price": 80.08
+    },
+    {
+      "ticker": "EXC",
+      "score": 3,
+      "price": 46.37
+    },
+    {
+      "ticker": "FE",
+      "score": 3,
+      "price": 48.6
+    },
+    {
+      "ticker": "FMC",
+      "score": 3,
+      "price": 15.08
+    },
+    {
+      "ticker": "HAS",
+      "score": 3,
+      "price": 90.47
+    },
+    {
+      "ticker": "HON",
+      "score": 3,
+      "price": 220.5
+    },
+    {
+      "ticker": "IP",
+      "score": 3,
+      "price": 34.03
+    },
+    {
+      "ticker": "LDOS",
+      "score": 3,
+      "price": 151.8
+    },
+    {
+      "ticker": "LHX",
+      "score": 3,
+      "price": 333.83
+    },
+    {
+      "ticker": "MCD",
+      "score": 3,
+      "price": 301.42
+    },
+    {
+      "ticker": "MRK",
+      "score": 3,
+      "price": 112.61
+    },
+    {
+      "ticker": "PKG",
+      "score": 3,
+      "price": 204.06
+    },
+    {
+      "ticker": "SO",
+      "score": 3,
+      "price": 92.37
+    },
+    {
+      "ticker": "SRE",
+      "score": 3,
+      "price": 92.98
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4322.12,
+      "unrealized_pnl": -623.04,
+      "unrealized_pct": -12.598999999999998,
+      "current_price": 98.23
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5187.96,
+      "unrealized_pnl": 196.2,
+      "unrealized_pct": 3.93,
+      "current_price": 144.11
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5140.605,
+      "unrealized_pnl": 139.025,
+      "unrealized_pct": 2.78,
+      "current_price": 61.935
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.330622,
+      "unrealized_pnl": 0.031019,
+      "unrealized_pct": 10.353,
+      "current_price": 1.3042
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4937.24,
+      "unrealized_pnl": -53.24,
+      "unrealized_pct": -1.0670000000000002,
+      "current_price": 224.42
+    },
+    "PODD": {
+      "symbol": "PODD",
+      "qty": 26.0,
+      "avg_entry": 193.18,
+      "market_val": 5041.4,
+      "unrealized_pnl": 18.72,
+      "unrealized_pct": 0.373,
+      "current_price": 193.9
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "JNJ",
+      "score": 4,
+      "action": "HOLD",
+      "price": 224.38
+    },
+    {
+      "ticker": "ABBV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 202.62
+    },
+    {
+      "ticker": "AIG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 75.54
+    },
+    {
+      "ticker": "CL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 82.02
+    },
+    {
+      "ticker": "COR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 306.49
+    },
+    {
+      "ticker": "CTVA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 79.6
+    },
+    {
+      "ticker": "DUK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 126.12
+    },
+    {
+      "ticker": "EVRG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 80.08
+    },
+    {
+      "ticker": "EXC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.37
+    },
+    {
+      "ticker": "FE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 48.6
+    },
+    {
+      "ticker": "FMC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 15.08
+    },
+    {
+      "ticker": "HAS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 90.47
+    },
+    {
+      "ticker": "HON",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 220.5
+    },
+    {
+      "ticker": "IP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 34.03
+    },
+    {
+      "ticker": "LDOS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 151.8
+    },
+    {
+      "ticker": "LHX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 333.83
+    },
+    {
+      "ticker": "MCD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 301.42
+    },
+    {
+      "ticker": "MRK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 112.61
+    },
+    {
+      "ticker": "PKG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 204.06
+    },
+    {
+      "ticker": "PODD",
+      "score": 3,
+      "action": "HOLD",
+      "price": 193.63
+    },
+    {
+      "ticker": "SO",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 92.37
+    },
+    {
+      "ticker": "SRE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 92.98
+    },
+    {
+      "ticker": "TEL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 212.7
+    },
+    {
+      "ticker": "VTR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 80.12
+    },
+    {
+      "ticker": "ABT",
+      "score": 2,
+      "action": "",
+      "price": 92.39
+    },
+    {
+      "ticker": "ACGL",
+      "score": 2,
+      "action": "",
+      "price": 96.53
+    },
+    {
+      "ticker": "ALB",
+      "score": 2,
+      "action": "",
+      "price": 189.76
+    },
+    {
+      "ticker": "ALL",
+      "score": 2,
+      "action": "",
+      "price": 214.05
+    },
+    {
+      "ticker": "AMGN",
+      "score": 2,
+      "action": "",
+      "price": 345.12
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 182.71
+    }
+  ],
+  "errors": []
+}
