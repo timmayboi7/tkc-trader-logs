@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "timestamp": "2026-04-26 11:01",
+    "cycle_type": "crypto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 18,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 1,
+    "portfolio_value": 101076.51,
+    "cash": 75970.01,
+    "buying_power": 177046.2
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "XLM/USD",
+      "score": 2,
+      "price": 0.171265
+    }
+  ],
+  "open_positions": {},
+  "top_signals": [
+    {
+      "ticker": "XLM/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 0.171265
+    },
+    {
+      "ticker": "BTC/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 78044.3125
+    },
+    {
+      "ticker": "SOL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 86.580002
+    },
+    {
+      "ticker": "BNB/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 632.130005
+    },
+    {
+      "ticker": "ADA/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.2529
+    },
+    {
+      "ticker": "AVAX/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 9.48
+    },
+    {
+      "ticker": "DOT/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.267
+    },
+    {
+      "ticker": "LINK/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 9.487
+    },
+    {
+      "ticker": "LTC/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 56.060001
+    },
+    {
+      "ticker": "BCH/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 452.279999
+    },
+    {
+      "ticker": "ETH/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 2347.780029
+    },
+    {
+      "ticker": "XRP/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 1.4287
+    },
+    {
+      "ticker": "ATOM/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 2.026
+    },
+    {
+      "ticker": "ALGO/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.1187
+    },
+    {
+      "ticker": "NEAR/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 1.389
+    },
+    {
+      "ticker": "FIL/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.947
+    },
+    {
+      "ticker": "DOGE/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 0.099
+    },
+    {
+      "ticker": "ICP/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 2.447
+    }
+  ],
+  "errors": []
+}
