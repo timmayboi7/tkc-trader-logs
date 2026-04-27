@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "timestamp": "2026-04-27 14:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 2,
+    "on_watch": 5,
+    "portfolio_value": 101061.86,
+    "cash": 75970.01,
+    "buying_power": 177031.56
+  },
+  "trades": {
+    "buys": [],
+    "closes": [
+      {
+        "ticker": "ALLE",
+        "score": -2,
+        "reason": "CLOSE \u2014 signal flipped"
+      },
+      {
+        "ticker": "BKR",
+        "score": -2,
+        "reason": "CLOSE \u2014 signal flipped"
+      }
+    ]
+  },
+  "watch_list": [
+    {
+      "ticker": "KMI",
+      "score": 4,
+      "price": 30.84
+    },
+    {
+      "ticker": "AZN",
+      "score": 3,
+      "price": 187.53
+    },
+    {
+      "ticker": "DLTR",
+      "score": 3,
+      "price": 97.57
+    },
+    {
+      "ticker": "EIX",
+      "score": 3,
+      "price": 68.48
+    },
+    {
+      "ticker": "MRK",
+      "score": 3,
+      "price": 110.93
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4206.4,
+      "unrealized_pnl": -738.76,
+      "unrealized_pct": -14.939,
+      "current_price": 95.6
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 5334.48,
+      "unrealized_pnl": 342.72,
+      "unrealized_pct": 6.866,
+      "current_price": 148.18
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5712.89,
+      "unrealized_pnl": 711.31,
+      "unrealized_pct": 14.222000000000001,
+      "current_price": 68.83
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.309936,
+      "unrealized_pnl": 0.010333,
+      "unrealized_pct": 3.449,
+      "current_price": 1.2226
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4954.84,
+      "unrealized_pnl": -35.64,
+      "unrealized_pct": -0.714,
+      "current_price": 225.22
+    },
+    "PODD": {
+      "symbol": "PODD",
+      "qty": 26.0,
+      "avg_entry": 193.18,
+      "market_val": 4882.93,
+      "unrealized_pnl": -139.75,
+      "unrealized_pct": -2.782,
+      "current_price": 187.805
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "KMI",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 30.84
+    },
+    {
+      "ticker": "PODD",
+      "score": 4,
+      "action": "HOLD",
+      "price": 187.79
+    },
+    {
+      "ticker": "AZN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 187.53
+    },
+    {
+      "ticker": "DLTR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 97.57
+    },
+    {
+      "ticker": "EIX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 68.48
+    },
+    {
+      "ticker": "MRK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 110.93
+    },
+    {
+      "ticker": "AAPL",
+      "score": 2,
+      "action": "",
+      "price": 266.45
+    },
+    {
+      "ticker": "ALGN",
+      "score": 2,
+      "action": "",
+      "price": 184.98
+    },
+    {
+      "ticker": "BSX",
+      "score": 2,
+      "action": "",
+      "price": 60.35
+    },
+    {
+      "ticker": "CAG",
+      "score": 2,
+      "action": "",
+      "price": 14.16
+    },
+    {
+      "ticker": "CHTR",
+      "score": 2,
+      "action": "",
+      "price": 173.36
+    },
+    {
+      "ticker": "CMCSA",
+      "score": 2,
+      "action": "",
+      "price": 27.36
+    },
+    {
+      "ticker": "COO",
+      "score": 2,
+      "action": "",
+      "price": 64.28
+    },
+    {
+      "ticker": "COST",
+      "score": 2,
+      "action": "",
+      "price": 1003.27
+    },
+    {
+      "ticker": "CPAY",
+      "score": 2,
+      "action": "",
+      "price": 314.16
+    },
+    {
+      "ticker": "CSGP",
+      "score": 2,
+      "action": "",
+      "price": 36.42
+    },
+    {
+      "ticker": "CTSH",
+      "score": 2,
+      "action": "",
+      "price": 54.77
+    },
+    {
+      "ticker": "CTVA",
+      "score": 2,
+      "action": "",
+      "price": 79.55
+    },
+    {
+      "ticker": "DG",
+      "score": 2,
+      "action": "",
+      "price": 117.8
+    },
+    {
+      "ticker": "DGX",
+      "score": 2,
+      "action": "",
+      "price": 196.37
+    },
+    {
+      "ticker": "DPZ",
+      "score": 2,
+      "action": "",
+      "price": 334.45
+    },
+    {
+      "ticker": "DUK",
+      "score": 2,
+      "action": "",
+      "price": 127.32
+    },
+    {
+      "ticker": "DVA",
+      "score": 2,
+      "action": "",
+      "price": 150.16
+    },
+    {
+      "ticker": "DXCM",
+      "score": 2,
+      "action": "",
+      "price": 61.57
+    },
+    {
+      "ticker": "ED",
+      "score": 2,
+      "action": "",
+      "price": 109.33
+    },
+    {
+      "ticker": "EMR",
+      "score": 2,
+      "action": "",
+      "price": 141.68
+    },
+    {
+      "ticker": "EXC",
+      "score": 2,
+      "action": "",
+      "price": 46.81
+    },
+    {
+      "ticker": "EXPE",
+      "score": 2,
+      "action": "",
+      "price": 247.84
+    },
+    {
+      "ticker": "EXR",
+      "score": 2,
+      "action": "",
+      "price": 140.27
+    },
+    {
+      "ticker": "GD",
+      "score": 2,
+      "action": "",
+      "price": 312.52
+    }
+  ],
+  "errors": []
+}
