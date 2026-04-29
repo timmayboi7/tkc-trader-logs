@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "timestamp": "2026-04-29 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 1,
+    "on_watch": 15,
+    "portfolio_value": 100651.93,
+    "cash": 80639.87,
+    "buying_power": 181291.49
+  },
+  "trades": {
+    "buys": [],
+    "closes": [
+      {
+        "ticker": "AKAM",
+        "score": -2,
+        "reason": "CLOSE \u2014 signal flipped"
+      }
+    ]
+  },
+  "watch_list": [
+    {
+      "ticker": "ACGL",
+      "score": 3,
+      "price": 93.16
+    },
+    {
+      "ticker": "AZN",
+      "score": 3,
+      "price": 185.28
+    },
+    {
+      "ticker": "BF-B",
+      "score": 3,
+      "price": 24.91
+    },
+    {
+      "ticker": "CMS",
+      "score": 3,
+      "price": 75.23
+    },
+    {
+      "ticker": "CTAS",
+      "score": 3,
+      "price": 171.12
+    },
+    {
+      "ticker": "DD",
+      "score": 3,
+      "price": 44.94
+    },
+    {
+      "ticker": "DGX",
+      "score": 3,
+      "price": 188.95
+    },
+    {
+      "ticker": "EMN",
+      "score": 3,
+      "price": 71.06
+    },
+    {
+      "ticker": "FCX",
+      "score": 3,
+      "price": 56.89
+    },
+    {
+      "ticker": "ILMN",
+      "score": 3,
+      "price": 122.21
+    },
+    {
+      "ticker": "MRNA",
+      "score": 3,
+      "price": 45.31
+    },
+    {
+      "ticker": "MSI",
+      "score": 3,
+      "price": 425.75
+    },
+    {
+      "ticker": "NEM",
+      "score": 3,
+      "price": 107.4
+    },
+    {
+      "ticker": "PFE",
+      "score": 3,
+      "price": 26.36
+    },
+    {
+      "ticker": "TJX",
+      "score": 3,
+      "price": 155.61
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4372.72,
+      "unrealized_pnl": -572.44,
+      "unrealized_pct": -11.576,
+      "current_price": 99.38
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 4970.16,
+      "unrealized_pnl": -21.6,
+      "unrealized_pct": -0.43299999999999994,
+      "current_price": 138.06
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5664.75,
+      "unrealized_pnl": 663.17,
+      "unrealized_pct": 13.259000000000002,
+      "current_price": 68.25
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.310544,
+      "unrealized_pnl": 0.010941,
+      "unrealized_pct": 3.6519999999999997,
+      "current_price": 1.225
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5004.12,
+      "unrealized_pnl": 13.64,
+      "unrealized_pct": 0.27299999999999996,
+      "current_price": 227.46
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ACGL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 93.16
+    },
+    {
+      "ticker": "AZN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 185.28
+    },
+    {
+      "ticker": "BF-B",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 24.91
+    },
+    {
+      "ticker": "CMS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 75.23
+    },
+    {
+      "ticker": "CTAS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 171.12
+    },
+    {
+      "ticker": "DD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 44.94
+    },
+    {
+      "ticker": "DGX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 188.95
+    },
+    {
+      "ticker": "EMN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 71.06
+    },
+    {
+      "ticker": "FCX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 56.89
+    },
+    {
+      "ticker": "ILMN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 122.21
+    },
+    {
+      "ticker": "MRNA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 45.31
+    },
+    {
+      "ticker": "MSI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 425.75
+    },
+    {
+      "ticker": "NEM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 107.4
+    },
+    {
+      "ticker": "PFE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 26.36
+    },
+    {
+      "ticker": "TJX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 155.61
+    },
+    {
+      "ticker": "AOS",
+      "score": 2,
+      "action": "",
+      "price": 63.21
+    },
+    {
+      "ticker": "APTV",
+      "score": 2,
+      "action": "",
+      "price": 58.69
+    },
+    {
+      "ticker": "BA",
+      "score": 2,
+      "action": "",
+      "price": 222.6
+    },
+    {
+      "ticker": "BDX",
+      "score": 2,
+      "action": "",
+      "price": 145.87
+    },
+    {
+      "ticker": "BLK",
+      "score": 2,
+      "action": "",
+      "price": 1032.63
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 324.26
+    },
+    {
+      "ticker": "CHTR",
+      "score": 2,
+      "action": "",
+      "price": 166.95
+    },
+    {
+      "ticker": "COO",
+      "score": 2,
+      "action": "",
+      "price": 62.02
+    },
+    {
+      "ticker": "COR",
+      "score": 2,
+      "action": "",
+      "price": 310.0
+    },
+    {
+      "ticker": "CSGP",
+      "score": 2,
+      "action": "",
+      "price": 34.38
+    },
+    {
+      "ticker": "CTVA",
+      "score": 2,
+      "action": "",
+      "price": 79.56
+    },
+    {
+      "ticker": "DAL",
+      "score": 2,
+      "action": "",
+      "price": 65.88
+    },
+    {
+      "ticker": "DE",
+      "score": 2,
+      "action": "",
+      "price": 562.65
+    },
+    {
+      "ticker": "DHI",
+      "score": 2,
+      "action": "",
+      "price": 152.51
+    },
+    {
+      "ticker": "DOV",
+      "score": 2,
+      "action": "",
+      "price": 220.3
+    }
+  ],
+  "errors": []
+}
