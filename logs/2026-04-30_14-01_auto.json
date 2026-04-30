@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "timestamp": "2026-04-30 14:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 7,
+    "portfolio_value": 100830.73,
+    "cash": 80639.86,
+    "buying_power": 181470.28
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ACGL",
+      "score": 3,
+      "price": 94.36
+    },
+    {
+      "ticker": "BF-B",
+      "score": 3,
+      "price": 25.44
+    },
+    {
+      "ticker": "BR",
+      "score": 3,
+      "price": 149.93
+    },
+    {
+      "ticker": "FE",
+      "score": 3,
+      "price": 47.35
+    },
+    {
+      "ticker": "MRNA",
+      "score": 3,
+      "price": 46.14
+    },
+    {
+      "ticker": "PH",
+      "score": 3,
+      "price": 900.62
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "price": 37.56
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 4444.44,
+      "unrealized_pnl": -500.72,
+      "unrealized_pct": -10.125,
+      "current_price": 101.01
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "qty": 36.0,
+      "avg_entry": 138.66,
+      "market_val": 4945.14,
+      "unrealized_pnl": -46.62,
+      "unrealized_pct": -0.9339999999999999,
+      "current_price": 137.365
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5756.05,
+      "unrealized_pnl": 754.47,
+      "unrealized_pct": 15.085,
+      "current_price": 69.35
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.307188,
+      "unrealized_pnl": 0.007585,
+      "unrealized_pct": 2.532,
+      "current_price": 1.21176
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5044.93,
+      "unrealized_pnl": 54.45,
+      "unrealized_pct": 1.091,
+      "current_price": 229.315
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ACGL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 94.36
+    },
+    {
+      "ticker": "BF-B",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 25.44
+    },
+    {
+      "ticker": "BR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 149.93
+    },
+    {
+      "ticker": "FE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.35
+    },
+    {
+      "ticker": "MRNA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.14
+    },
+    {
+      "ticker": "PH",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 900.62
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 37.56
+    },
+    {
+      "ticker": "AFL",
+      "score": 2,
+      "action": "",
+      "price": 113.06
+    },
+    {
+      "ticker": "CF",
+      "score": 2,
+      "action": "",
+      "price": 126.1
+    },
+    {
+      "ticker": "CHRW",
+      "score": 2,
+      "action": "",
+      "price": 180.37
+    },
+    {
+      "ticker": "CHTR",
+      "score": 2,
+      "action": "",
+      "price": 166.05
+    },
+    {
+      "ticker": "CSGP",
+      "score": 2,
+      "action": "",
+      "price": 34.58
+    },
+    {
+      "ticker": "CTSH",
+      "score": 2,
+      "action": "",
+      "price": 52.78
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "",
+      "price": 192.91
+    },
+    {
+      "ticker": "EPAM",
+      "score": 2,
+      "action": "",
+      "price": 112.79
+    },
+    {
+      "ticker": "FCX",
+      "score": 2,
+      "action": "",
+      "price": 57.61
+    },
+    {
+      "ticker": "FTNT",
+      "score": 2,
+      "action": "",
+      "price": 84.26
+    },
+    {
+      "ticker": "GEHC",
+      "score": 2,
+      "action": "",
+      "price": 60.74
+    },
+    {
+      "ticker": "HSIC",
+      "score": 2,
+      "action": "",
+      "price": 73.79
+    },
+    {
+      "ticker": "MCK",
+      "score": 2,
+      "action": "",
+      "price": 813.68
+    },
+    {
+      "ticker": "MSFT",
+      "score": 2,
+      "action": "",
+      "price": 407.11
+    },
+    {
+      "ticker": "PCAR",
+      "score": 2,
+      "action": "",
+      "price": 119.47
+    },
+    {
+      "ticker": "PODD",
+      "score": 2,
+      "action": "",
+      "price": 170.62
+    },
+    {
+      "ticker": "SNA",
+      "score": 2,
+      "action": "",
+      "price": 382.92
+    },
+    {
+      "ticker": "TSCO",
+      "score": 2,
+      "action": "",
+      "price": 34.81
+    },
+    {
+      "ticker": "WTW",
+      "score": 2,
+      "action": "",
+      "price": 259.12
+    },
+    {
+      "ticker": "XOM",
+      "score": 2,
+      "action": "",
+      "price": 154.7
+    },
+    {
+      "ticker": "ABNB",
+      "score": 1,
+      "action": "",
+      "price": 140.41
+    },
+    {
+      "ticker": "AJG",
+      "score": 1,
+      "action": "",
+      "price": 206.07
+    },
+    {
+      "ticker": "ALGN",
+      "score": 1,
+      "action": "",
+      "price": 175.45
+    }
+  ],
+  "errors": []
+}
