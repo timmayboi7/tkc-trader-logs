@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-01",
+  "machine": "primary",
+  "cycles": [
+    {
+      "time": "2026-05-01 08:31",
+      "cycle_type": "auto",
+      "entries": 0,
+      "exits": 0,
+      "portfolio_value": 100973.39,
+      "tickers_scanned": 496
+    }
+  ],
+  "final_portfolio": 100973.39,
+  "total_entries": 0,
+  "total_exits": 0
+}
