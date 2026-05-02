@@ -1,6 +1,6 @@
 {
   "meta": {
-    "timestamp": "2026-05-01 21:43",
+    "timestamp": "2026-05-02 08:31",
     "cycle_type": "auto",
     "machine": "primary",
     "dry_run": false
@@ -9,7 +9,7 @@
     "tickers_scanned": 497,
     "entries": 0,
     "exits": 0,
-    "on_watch": 12,
+    "on_watch": 11,
     "portfolio_value": 100823.23,
     "cash": 80639.86,
     "buying_power": 181462.78
@@ -23,11 +23,6 @@
       "ticker": "ACGL",
       "score": 3,
       "price": 93.82
-    },
-    {
-      "ticker": "AES",
-      "score": 3,
-      "price": 14.28
     },
     {
       "ticker": "BF-B",
@@ -112,10 +107,10 @@
       "symbol": "DOTUSD",
       "qty": 0.253505272,
       "avg_entry": 1.18184,
-      "market_val": 0.306234,
-      "unrealized_pnl": 0.006631,
-      "unrealized_pct": 2.213,
-      "current_price": 1.208
+      "market_val": 0.30522,
+      "unrealized_pnl": 0.005617,
+      "unrealized_pct": 1.875,
+      "current_price": 1.204
     },
     "JNJ": {
       "symbol": "JNJ",
@@ -133,12 +128,6 @@
       "score": 3,
       "action": "WATCH \u2014 near threshold",
       "price": 93.82
-    },
-    {
-      "ticker": "AES",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 14.28
     },
     {
       "ticker": "BF-B",
@@ -307,6 +296,12 @@
       "score": 2,
       "action": "",
       "price": 142.02
+    },
+    {
+      "ticker": "FE",
+      "score": 2,
+      "action": "",
+      "price": 46.92
     }
   ],
   "errors": []
