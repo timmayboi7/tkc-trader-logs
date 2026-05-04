@@ -1,141 +1,139 @@
 {
   "meta": {
-    "timestamp": "2026-05-03 14:01",
+    "timestamp": "2026-05-03 22:49",
     "cycle_type": "crypto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
     "tickers_scanned": 18,
-    "entries": 1,
+    "entries": 0,
     "exits": 0,
-    "on_watch": 0,
-    "portfolio_value": 100823.23,
+    "on_watch": 1,
+    "portfolio_value": 102050.02,
     "cash": 80639.86,
-    "buying_power": 181462.78
+    "buying_power": 182689.56
   },
   "trades": {
-    "buys": [
-      {
-        "ticker": "NEAR/USD",
-        "score": 3,
-        "price": 1.274,
-        "stop": 1.144425,
-        "target": 1.48132
-      }
-    ],
+    "buys": [],
     "closes": []
   },
-  "watch_list": [],
+  "watch_list": [
+    {
+      "ticker": "NEAR/USD",
+      "score": 2,
+      "price": 1.295
+    }
+  ],
   "open_positions": {},
   "top_signals": [
     {
       "ticker": "NEAR/USD",
-      "score": 3,
-      "action": "BUY",
-      "price": 1.274
-    },
-    {
-      "ticker": "ADA/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.2506
-    },
-    {
-      "ticker": "ATOM/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 1.89
-    },
-    {
-      "ticker": "XLM/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.158528
-    },
-    {
-      "ticker": "ICP/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 2.341
-    },
-    {
-      "ticker": "ETH/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 2330.669922
-    },
-    {
-      "ticker": "AVAX/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 9.1
+      "score": 2,
+      "action": "WATCH",
+      "price": 1.295
     },
     {
       "ticker": "DOT/USD",
-      "score": -1,
+      "score": 0,
       "action": "HOLD",
-      "price": 1.213
+      "price": 1.247
     },
     {
-      "ticker": "ALGO/USD",
-      "score": -1,
+      "ticker": "LINK/USD",
+      "score": 0,
       "action": "HOLD",
-      "price": 0.1139
+      "price": 9.34
+    },
+    {
+      "ticker": "BCH/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 449.690002
     },
     {
       "ticker": "BTC/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 80226.242188
+    },
+    {
+      "ticker": "ADA/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.2537
+    },
+    {
+      "ticker": "ATOM/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 1.915
+    },
+    {
+      "ticker": "XLM/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.16044
+    },
+    {
+      "ticker": "ETH/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 78726.023438
+      "price": 2384.639893
     },
     {
       "ticker": "SOL/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 84.25
+      "price": 85.360001
     },
     {
       "ticker": "BNB/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 619.440002
+      "price": 625.5
     },
     {
       "ticker": "XRP/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 1.394
+      "price": 1.4124
+    },
+    {
+      "ticker": "AVAX/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 9.28
     },
     {
       "ticker": "DOGE/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 0.10837
-    },
-    {
-      "ticker": "LINK/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 9.152
+      "price": 0.11275
     },
     {
       "ticker": "LTC/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 55.32
+      "price": 56.080002
     },
     {
-      "ticker": "BCH/USD",
+      "ticker": "ALGO/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 445.119995
+      "price": 0.1156
     },
     {
       "ticker": "FIL/USD",
       "score": -2,
       "action": "HOLD",
-      "price": 0.926
+      "price": 0.972
+    },
+    {
+      "ticker": "ICP/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 2.403
     }
   ],
   "errors": []
