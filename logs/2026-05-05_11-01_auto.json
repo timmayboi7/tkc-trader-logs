@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "timestamp": "2026-05-05 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 17,
+    "portfolio_value": 101124.72,
+    "cash": 80442.06,
+    "buying_power": 181566.46
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ALGN",
+      "score": 3,
+      "price": 168.69
+    },
+    {
+      "ticker": "APTV",
+      "score": 3,
+      "price": 55.94
+    },
+    {
+      "ticker": "BALL",
+      "score": 3,
+      "price": 58.31
+    },
+    {
+      "ticker": "BMY",
+      "score": 3,
+      "price": 56.84
+    },
+    {
+      "ticker": "BR",
+      "score": 3,
+      "price": 151.85
+    },
+    {
+      "ticker": "FDX",
+      "score": 3,
+      "price": 361.17
+    },
+    {
+      "ticker": "GRMN",
+      "score": 3,
+      "price": 237.75
+    },
+    {
+      "ticker": "JKHY",
+      "score": 3,
+      "price": 148.78
+    },
+    {
+      "ticker": "L",
+      "score": 3,
+      "price": 107.03
+    },
+    {
+      "ticker": "LDOS",
+      "score": 3,
+      "price": 142.75
+    },
+    {
+      "ticker": "META",
+      "score": 3,
+      "price": 602.27
+    },
+    {
+      "ticker": "ODFL",
+      "score": 3,
+      "price": 196.49
+    },
+    {
+      "ticker": "PCAR",
+      "score": 3,
+      "price": 113.43
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "price": 37.46
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "price": 46.03
+    },
+    {
+      "ticker": "TPR",
+      "score": 3,
+      "price": 140.55
+    },
+    {
+      "ticker": "UPS",
+      "score": 3,
+      "price": 97.61
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 5082.0,
+      "unrealized_pnl": 136.84,
+      "unrealized_pct": 2.767,
+      "current_price": 115.5
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5678.86,
+      "unrealized_pnl": 677.28,
+      "unrealized_pct": 13.541,
+      "current_price": 68.42
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.323295,
+      "unrealized_pnl": 0.023692,
+      "unrealized_pct": 7.9079999999999995,
+      "current_price": 1.2753
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4966.28,
+      "unrealized_pnl": -24.2,
+      "unrealized_pct": -0.485,
+      "current_price": 225.74
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4955.2,
+      "unrealized_pnl": 34.56,
+      "unrealized_pct": 0.7020000000000001,
+      "current_price": 154.85
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ALGN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 168.69
+    },
+    {
+      "ticker": "APTV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 55.94
+    },
+    {
+      "ticker": "BALL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 58.31
+    },
+    {
+      "ticker": "BMY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 56.84
+    },
+    {
+      "ticker": "BR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 151.85
+    },
+    {
+      "ticker": "FDX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 361.17
+    },
+    {
+      "ticker": "GRMN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 237.75
+    },
+    {
+      "ticker": "JKHY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 148.78
+    },
+    {
+      "ticker": "L",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 107.03
+    },
+    {
+      "ticker": "LDOS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 142.75
+    },
+    {
+      "ticker": "META",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 602.27
+    },
+    {
+      "ticker": "ODFL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 196.49
+    },
+    {
+      "ticker": "PCAR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 113.43
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 37.46
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.03
+    },
+    {
+      "ticker": "TPR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 140.55
+    },
+    {
+      "ticker": "UPS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 97.61
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 112.68
+    },
+    {
+      "ticker": "AMT",
+      "score": 2,
+      "action": "",
+      "price": 177.54
+    },
+    {
+      "ticker": "AOS",
+      "score": 2,
+      "action": "",
+      "price": 58.61
+    },
+    {
+      "ticker": "APH",
+      "score": 2,
+      "action": "",
+      "price": 138.18
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 187.77
+    },
+    {
+      "ticker": "BIIB",
+      "score": 2,
+      "action": "",
+      "price": 187.75
+    },
+    {
+      "ticker": "BRO",
+      "score": 2,
+      "action": "",
+      "price": 57.57
+    },
+    {
+      "ticker": "CHRW",
+      "score": 2,
+      "action": "",
+      "price": 166.51
+    },
+    {
+      "ticker": "CINF",
+      "score": 2,
+      "action": "",
+      "price": 160.87
+    },
+    {
+      "ticker": "CLX",
+      "score": 2,
+      "action": "",
+      "price": 85.89
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 43.41
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 124.36
+    },
+    {
+      "ticker": "CPRT",
+      "score": 2,
+      "action": "",
+      "price": 33.03
+    }
+  ],
+  "errors": []
+}
