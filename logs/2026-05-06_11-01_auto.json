@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "timestamp": "2026-05-06 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 10,
+    "portfolio_value": 100966.53,
+    "cash": 70504.43,
+    "buying_power": 171470.63
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "XOM",
+      "score": 4,
+      "price": 147.45
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "price": 144.62
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "price": 138.22
+    },
+    {
+      "ticker": "APTV",
+      "score": 3,
+      "price": 56.9
+    },
+    {
+      "ticker": "BMY",
+      "score": 3,
+      "price": 56.85
+    },
+    {
+      "ticker": "EA",
+      "score": 3,
+      "price": 201.58
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "price": 506.85
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 31.47
+    },
+    {
+      "ticker": "L",
+      "score": 3,
+      "price": 106.63
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "price": 46.01
+    }
+  ],
+  "open_positions": {
+    "AKAM": {
+      "symbol": "AKAM",
+      "qty": 44.0,
+      "avg_entry": 112.39,
+      "market_val": 5209.6,
+      "unrealized_pnl": 264.44,
+      "unrealized_pct": 5.3469999999999995,
+      "current_price": 118.4
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5507.05,
+      "unrealized_pnl": 505.47,
+      "unrealized_pct": 10.106,
+      "current_price": 66.35
+    },
+    "CDW": {
+      "symbol": "CDW",
+      "qty": 45.0,
+      "avg_entry": 109.92,
+      "market_val": 4869.9,
+      "unrealized_pnl": -76.5,
+      "unrealized_pct": -1.547,
+      "current_price": 108.22
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 4964.22,
+      "unrealized_pnl": -27.0,
+      "unrealized_pct": -0.541,
+      "current_price": 183.86
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.32976,
+      "unrealized_pnl": 0.030157,
+      "unrealized_pct": 10.066,
+      "current_price": 1.3008
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4944.28,
+      "unrealized_pnl": -46.2,
+      "unrealized_pct": -0.9259999999999999,
+      "current_price": 224.74
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4966.72,
+      "unrealized_pnl": 46.08,
+      "unrealized_pct": 0.936,
+      "current_price": 155.21
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "CDW",
+      "score": 4,
+      "action": "HOLD",
+      "price": 107.98
+    },
+    {
+      "ticker": "CVX",
+      "score": 4,
+      "action": "HOLD",
+      "price": 183.97
+    },
+    {
+      "ticker": "XOM",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 147.45
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 144.62
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 138.22
+    },
+    {
+      "ticker": "APTV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 56.9
+    },
+    {
+      "ticker": "BMY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 56.85
+    },
+    {
+      "ticker": "EA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 201.58
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 506.85
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 31.47
+    },
+    {
+      "ticker": "L",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 106.63
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.01
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 109.96
+    },
+    {
+      "ticker": "ALGN",
+      "score": 2,
+      "action": "",
+      "price": 171.78
+    },
+    {
+      "ticker": "AMT",
+      "score": 2,
+      "action": "",
+      "price": 180.43
+    },
+    {
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 38.85
+    },
+    {
+      "ticker": "BALL",
+      "score": 2,
+      "action": "",
+      "price": 59.67
+    },
+    {
+      "ticker": "BR",
+      "score": 2,
+      "action": "",
+      "price": 152.95
+    },
+    {
+      "ticker": "BRO",
+      "score": 2,
+      "action": "",
+      "price": 57.43
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 323.1
+    },
+    {
+      "ticker": "CHRW",
+      "score": 2,
+      "action": "",
+      "price": 167.58
+    },
+    {
+      "ticker": "CMS",
+      "score": 2,
+      "action": "",
+      "price": 74.57
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 43.16
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 118.64
+    },
+    {
+      "ticker": "COR",
+      "score": 2,
+      "action": "",
+      "price": 263.3
+    },
+    {
+      "ticker": "COST",
+      "score": 2,
+      "action": "",
+      "price": 996.26
+    },
+    {
+      "ticker": "CTRA",
+      "score": 2,
+      "action": "",
+      "price": 33.26
+    },
+    {
+      "ticker": "CTVA",
+      "score": 2,
+      "action": "",
+      "price": 81.44
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.53
+    },
+    {
+      "ticker": "DE",
+      "score": 2,
+      "action": "",
+      "price": 590.57
+    }
+  ],
+  "errors": []
+}
