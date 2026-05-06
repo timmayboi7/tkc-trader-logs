@@ -1,322 +1,133 @@
 {
   "meta": {
     "timestamp": "2026-05-06 09:01",
-    "cycle_type": "auto",
+    "cycle_type": "crypto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 497,
-    "entries": 2,
+    "tickers_scanned": 18,
+    "entries": 0,
     "exits": 0,
-    "on_watch": 11,
-    "portfolio_value": 101047.64,
-    "cash": 80442.05,
-    "buying_power": 181489.36
+    "on_watch": 0,
+    "portfolio_value": 101087.03,
+    "cash": 70504.43,
+    "buying_power": 171591.13
   },
   "trades": {
-    "buys": [
-      {
-        "ticker": "CDW",
-        "score": 4,
-        "price": 110.25,
-        "stop": 99.27,
-        "target": 126.71
-      },
-      {
-        "ticker": "CVX",
-        "score": 4,
-        "price": 184.54,
-        "stop": 174.15,
-        "target": 200.13
-      }
-    ],
+    "buys": [],
     "closes": []
   },
-  "watch_list": [
-    {
-      "ticker": "AEE",
-      "score": 3,
-      "price": 108.79
-    },
-    {
-      "ticker": "ANET",
-      "score": 3,
-      "price": 146.79
-    },
-    {
-      "ticker": "APTV",
-      "score": 3,
-      "price": 56.81
-    },
-    {
-      "ticker": "CMS",
-      "score": 3,
-      "price": 74.1
-    },
-    {
-      "ticker": "DTE",
-      "score": 3,
-      "price": 143.15
-    },
-    {
-      "ticker": "EA",
-      "score": 3,
-      "price": 201.46
-    },
-    {
-      "ticker": "GRMN",
-      "score": 3,
-      "price": 239.23
-    },
-    {
-      "ticker": "HUBB",
-      "score": 3,
-      "price": 505.94
-    },
-    {
-      "ticker": "J",
-      "score": 3,
-      "price": 122.48
-    },
-    {
-      "ticker": "PPL",
-      "score": 3,
-      "price": 37.05
-    },
-    {
-      "ticker": "XOM",
-      "score": 3,
-      "price": 149.12
-    }
-  ],
-  "open_positions": {
-    "AKAM": {
-      "symbol": "AKAM",
-      "qty": 44.0,
-      "avg_entry": 112.39,
-      "market_val": 5087.94,
-      "unrealized_pnl": 142.78,
-      "unrealized_pct": 2.887,
-      "current_price": 115.635
-    },
-    "BKR": {
-      "symbol": "BKR",
-      "qty": 83.0,
-      "avg_entry": 60.26,
-      "market_val": 5561.415,
-      "unrealized_pnl": 559.835,
-      "unrealized_pct": 11.193,
-      "current_price": 67.005
-    },
-    "DOTUSD": {
-      "symbol": "DOTUSD",
-      "qty": 0.253505272,
-      "avg_entry": 1.18184,
-      "market_val": 0.332421,
-      "unrealized_pnl": 0.032818,
-      "unrealized_pct": 10.954,
-      "current_price": 1.3113
-    },
-    "JNJ": {
-      "symbol": "JNJ",
-      "qty": 22.0,
-      "avg_entry": 226.84,
-      "market_val": 4958.14,
-      "unrealized_pnl": -32.34,
-      "unrealized_pct": -0.6479999999999999,
-      "current_price": 225.37
-    },
-    "PEP": {
-      "symbol": "PEP",
-      "qty": 32.0,
-      "avg_entry": 153.77,
-      "market_val": 4997.76,
-      "unrealized_pnl": 77.12,
-      "unrealized_pct": 1.567,
-      "current_price": 156.18
-    }
-  },
+  "watch_list": [],
+  "open_positions": {},
   "top_signals": [
     {
-      "ticker": "CDW",
-      "score": 4,
-      "action": "BUY \u2014 signal strong",
-      "price": 110.25
+      "ticker": "ATOM/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.884043
     },
     {
-      "ticker": "CVX",
-      "score": 4,
-      "action": "BUY \u2014 signal strong",
-      "price": 184.54
+      "ticker": "XLM/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.159874
     },
     {
-      "ticker": "AEE",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 108.79
+      "ticker": "BTC/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 81604.359375
     },
     {
-      "ticker": "ANET",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 146.79
+      "ticker": "ETH/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 2361.182617
     },
     {
-      "ticker": "APTV",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 56.81
+      "ticker": "LINK/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 9.952
     },
     {
-      "ticker": "CMS",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 74.1
+      "ticker": "ALGO/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.1211
     },
     {
-      "ticker": "DTE",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 143.15
+      "ticker": "AVAX/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 9.55
     },
     {
-      "ticker": "EA",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 201.46
+      "ticker": "DOGE/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 0.114884
     },
     {
-      "ticker": "GRMN",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 239.23
+      "ticker": "DOT/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 1.298
     },
     {
-      "ticker": "HUBB",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 505.94
+      "ticker": "FIL/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 1.058
     },
     {
-      "ticker": "J",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 122.48
+      "ticker": "SOL/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 88.209999
     },
     {
-      "ticker": "PPL",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 37.05
+      "ticker": "BNB/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 646.400024
     },
     {
-      "ticker": "XOM",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 149.12
+      "ticker": "XRP/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 1.4217
     },
     {
-      "ticker": "ALGN",
-      "score": 2,
-      "action": "",
-      "price": 170.68
+      "ticker": "ADA/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 0.262138
     },
     {
-      "ticker": "AMT",
-      "score": 2,
-      "action": "",
-      "price": 179.74
+      "ticker": "LTC/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 56.810001
     },
     {
-      "ticker": "APA",
-      "score": 2,
-      "action": "",
-      "price": 39.19
+      "ticker": "BCH/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 468.079987
     },
     {
-      "ticker": "BALL",
-      "score": 2,
-      "action": "",
-      "price": 59.4
+      "ticker": "NEAR/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 1.447
     },
     {
-      "ticker": "BMY",
-      "score": 2,
-      "action": "",
-      "price": 57.03
-    },
-    {
-      "ticker": "BR",
-      "score": 2,
-      "action": "",
-      "price": 152.36
-    },
-    {
-      "ticker": "BRO",
-      "score": 2,
-      "action": "",
-      "price": 57.66
-    },
-    {
-      "ticker": "CHRW",
-      "score": 2,
-      "action": "",
-      "price": 166.43
-    },
-    {
-      "ticker": "CNP",
-      "score": 2,
-      "action": "",
-      "price": 43.13
-    },
-    {
-      "ticker": "COP",
-      "score": 2,
-      "action": "",
-      "price": 118.64
-    },
-    {
-      "ticker": "COR",
-      "score": 2,
-      "action": "",
-      "price": 250.21
-    },
-    {
-      "ticker": "COST",
-      "score": 2,
-      "action": "",
-      "price": 1006.23
-    },
-    {
-      "ticker": "CTRA",
-      "score": 2,
-      "action": "",
-      "price": 33.31
-    },
-    {
-      "ticker": "CTSH",
-      "score": 2,
-      "action": "",
-      "price": 51.04
-    },
-    {
-      "ticker": "D",
-      "score": 2,
-      "action": "",
-      "price": 62.4
-    },
-    {
-      "ticker": "DE",
-      "score": 2,
-      "action": "",
-      "price": 586.91
-    },
-    {
-      "ticker": "DUK",
-      "score": 2,
-      "action": "",
-      "price": 125.82
+      "ticker": "ICP/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 2.746
     }
   ],
   "errors": []
