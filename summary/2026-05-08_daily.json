@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "machine": "primary",
+  "machine": "dads-pc",
   "cycles": [
     {
       "time": "2026-05-08 08:32",
@@ -73,9 +73,17 @@
       "exits": 0,
       "portfolio_value": 101591.04,
       "tickers_scanned": 18
+    },
+    {
+      "time": "2026-05-08 14:40",
+      "cycle_type": "auto",
+      "entries": 0,
+      "exits": 0,
+      "portfolio_value": 101552.46,
+      "tickers_scanned": 497
     }
   ],
-  "final_portfolio": 101591.04,
+  "final_portfolio": 101552.46,
   "total_entries": 0,
   "total_exits": 0
 }
