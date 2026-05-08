@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "timestamp": "2026-05-08 08:44",
+    "cycle_type": "auto",
+    "machine": "dads-pc",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 14,
+    "portfolio_value": 102090.24,
+    "cash": 60293.28,
+    "buying_power": 145916.38
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ALGN",
+      "score": 3,
+      "price": 165.7
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "price": 143.22
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "price": 134.67
+    },
+    {
+      "ticker": "CE",
+      "score": 3,
+      "price": 58.37
+    },
+    {
+      "ticker": "COP",
+      "score": 3,
+      "price": 114.07
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "price": 181.34
+    },
+    {
+      "ticker": "DTE",
+      "score": 3,
+      "price": 141.85
+    },
+    {
+      "ticker": "EXPE",
+      "score": 3,
+      "price": 227.65
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "price": 493.0
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "price": 31.31
+    },
+    {
+      "ticker": "PNW",
+      "score": 3,
+      "price": 99.62
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "price": 36.7
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "price": 45.65
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "price": 144.88
+    }
+  ],
+  "open_positions": {
+    "CAG": {
+      "symbol": "CAG",
+      "qty": 347.0,
+      "avg_entry": 14.38,
+      "market_val": 4903.11,
+      "unrealized_pnl": -86.75,
+      "unrealized_pct": -1.7389999999999999,
+      "current_price": 14.13
+    },
+    "CPB": {
+      "symbol": "CPB",
+      "qty": 250.0,
+      "avg_entry": 19.93,
+      "market_val": 5250.0,
+      "unrealized_pnl": 267.5,
+      "unrealized_pct": 5.369,
+      "current_price": 21.0
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 12487.215545336,
+      "avg_entry": 1.180376007,
+      "market_val": 16467.140884,
+      "unrealized_pnl": 1727.53126,
+      "unrealized_pct": 11.72,
+      "current_price": 1.31872
+    },
+    "GIS": {
+      "symbol": "GIS",
+      "qty": 145.0,
+      "avg_entry": 34.38,
+      "market_val": 5077.9,
+      "unrealized_pnl": 92.8,
+      "unrealized_pct": 1.862,
+      "current_price": 35.02
+    },
+    "T": {
+      "symbol": "T",
+      "qty": 196.0,
+      "avg_entry": 25.43,
+      "market_val": 4952.92,
+      "unrealized_pnl": -31.36,
+      "unrealized_pct": -0.629,
+      "current_price": 25.27
+    },
+    "VZ": {
+      "symbol": "VZ",
+      "qty": 109.0,
+      "avg_entry": 45.77,
+      "market_val": 5145.89,
+      "unrealized_pnl": 156.96,
+      "unrealized_pct": 3.1460000000000004,
+      "current_price": 47.21
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ALGN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 165.7
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 143.22
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 134.67
+    },
+    {
+      "ticker": "CE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 58.37
+    },
+    {
+      "ticker": "COP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 114.07
+    },
+    {
+      "ticker": "CVX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 181.34
+    },
+    {
+      "ticker": "DTE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 141.85
+    },
+    {
+      "ticker": "EXPE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 227.65
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 493.0
+    },
+    {
+      "ticker": "KMI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 31.31
+    },
+    {
+      "ticker": "PNW",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 99.62
+    },
+    {
+      "ticker": "PPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 36.7
+    },
+    {
+      "ticker": "PYPL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 45.65
+    },
+    {
+      "ticker": "XOM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 144.88
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 109.21
+    },
+    {
+      "ticker": "AEP",
+      "score": 2,
+      "action": "",
+      "price": 131.66
+    },
+    {
+      "ticker": "AMT",
+      "score": 2,
+      "action": "",
+      "price": 178.87
+    },
+    {
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 35.49
+    },
+    {
+      "ticker": "APTV",
+      "score": 2,
+      "action": "",
+      "price": 57.1
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 183.49
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 322.11
+    },
+    {
+      "ticker": "CDW",
+      "score": 2,
+      "action": "",
+      "price": 107.92
+    },
+    {
+      "ticker": "CEG",
+      "score": 2,
+      "action": "",
+      "price": 311.13
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 42.27
+    },
+    {
+      "ticker": "COR",
+      "score": 2,
+      "action": "",
+      "price": 262.96
+    },
+    {
+      "ticker": "COST",
+      "score": 2,
+      "action": "",
+      "price": 1010.19
+    },
+    {
+      "ticker": "CRL",
+      "score": 2,
+      "action": "",
+      "price": 177.2
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 61.64
+    },
+    {
+      "ticker": "DE",
+      "score": 2,
+      "action": "",
+      "price": 576.02
+    },
+    {
+      "ticker": "DG",
+      "score": 2,
+      "action": "",
+      "price": 115.24
+    }
+  ],
+  "errors": []
+}
