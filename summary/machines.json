@@ -1,10 +1,10 @@
 {
   "primary": {
     "last_seen": "2026-05-08 08:32",
-    "last_cycle_type": "auto",
-    "portfolio_value": 101892.78,
-    "cash": 70504.43,
-    "tickers_scanned": 497,
+    "last_cycle_type": "crypto",
+    "portfolio_value": 101849.23,
+    "cash": 75227.81,
+    "tickers_scanned": 18,
     "entries": 0,
     "exits": 0
   }
