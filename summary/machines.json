@@ -7,5 +7,14 @@
     "tickers_scanned": 18,
     "entries": 0,
     "exits": 0
+  },
+  "dads-pc": {
+    "last_seen": "2026-05-08 14:40",
+    "last_cycle_type": "auto",
+    "portfolio_value": 101552.46,
+    "cash": 76283.84,
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0
   }
 }
