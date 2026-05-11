@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "timestamp": "2026-05-11 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 12,
+    "portfolio_value": 101557.7,
+    "cash": 76769.1,
+    "buying_power": 178326.46
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "AEE",
+      "score": 3,
+      "price": 109.07
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "price": 130.16
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "price": 141.21
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "price": 126.67
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "price": 51.2
+    },
+    {
+      "ticker": "CE",
+      "score": 3,
+      "price": 58.81
+    },
+    {
+      "ticker": "EXPE",
+      "score": 3,
+      "price": 229.98
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "price": 490.07
+    },
+    {
+      "ticker": "JPM",
+      "score": 3,
+      "price": 302.0
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "price": 211.93
+    },
+    {
+      "ticker": "O",
+      "score": 3,
+      "price": 62.01
+    },
+    {
+      "ticker": "TDY",
+      "score": 3,
+      "price": 619.97
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5357.65,
+      "unrealized_pnl": 356.07,
+      "unrealized_pct": 7.119000000000001,
+      "current_price": 64.55
+    },
+    "CDW": {
+      "symbol": "CDW",
+      "qty": 45.0,
+      "avg_entry": 109.92,
+      "market_val": 4673.7,
+      "unrealized_pnl": -272.7,
+      "unrealized_pct": -5.513,
+      "current_price": 103.86
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 4951.53,
+      "unrealized_pnl": -39.69,
+      "unrealized_pct": -0.795,
+      "current_price": 183.39
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.344704,
+      "unrealized_pnl": 0.045101,
+      "unrealized_pct": 15.054,
+      "current_price": 1.35975
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4862.66,
+      "unrealized_pnl": -127.82,
+      "unrealized_pct": -2.561,
+      "current_price": 221.03
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4942.72,
+      "unrealized_pnl": 22.08,
+      "unrealized_pct": 0.449,
+      "current_price": 154.46
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "AEE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 109.07
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 130.16
+    },
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 141.21
+    },
+    {
+      "ticker": "APH",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 126.67
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 51.2
+    },
+    {
+      "ticker": "CE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 58.81
+    },
+    {
+      "ticker": "EXPE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 229.98
+    },
+    {
+      "ticker": "HUBB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 490.07
+    },
+    {
+      "ticker": "JPM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 302.0
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 211.93
+    },
+    {
+      "ticker": "O",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 62.01
+    },
+    {
+      "ticker": "TDY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 619.97
+    },
+    {
+      "ticker": "ABT",
+      "score": 2,
+      "action": "",
+      "price": 84.32
+    },
+    {
+      "ticker": "ALGN",
+      "score": 2,
+      "action": "",
+      "price": 168.78
+    },
+    {
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 35.56
+    },
+    {
+      "ticker": "APTV",
+      "score": 2,
+      "action": "",
+      "price": 57.31
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 182.03
+    },
+    {
+      "ticker": "CAH",
+      "score": 2,
+      "action": "",
+      "price": 184.95
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 321.41
+    },
+    {
+      "ticker": "CDW",
+      "score": 2,
+      "action": "HOLD",
+      "price": 104.79
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 42.0
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 114.96
+    },
+    {
+      "ticker": "COR",
+      "score": 2,
+      "action": "",
+      "price": 264.72
+    },
+    {
+      "ticker": "CRL",
+      "score": 2,
+      "action": "",
+      "price": 176.96
+    },
+    {
+      "ticker": "CSGP",
+      "score": 2,
+      "action": "",
+      "price": 32.41
+    },
+    {
+      "ticker": "CTVA",
+      "score": 2,
+      "action": "",
+      "price": 81.26
+    },
+    {
+      "ticker": "DTE",
+      "score": 2,
+      "action": "",
+      "price": 142.3
+    },
+    {
+      "ticker": "EMN",
+      "score": 2,
+      "action": "",
+      "price": 74.72
+    },
+    {
+      "ticker": "EPAM",
+      "score": 2,
+      "action": "",
+      "price": 98.8
+    },
+    {
+      "ticker": "EVRG",
+      "score": 2,
+      "action": "",
+      "price": 82.38
+    }
+  ],
+  "errors": []
+}
