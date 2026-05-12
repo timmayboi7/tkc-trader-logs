@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "timestamp": "2026-05-12 08:31",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 12,
+    "portfolio_value": 101524.4,
+    "cash": 76769.1,
+    "buying_power": 178293.16
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "price": 136.55
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "price": 50.74
+    },
+    {
+      "ticker": "JPM",
+      "score": 3,
+      "price": 299.84
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "price": 207.4
+    },
+    {
+      "ticker": "NKE",
+      "score": 3,
+      "price": 42.42
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "price": 26.88
+    },
+    {
+      "ticker": "RL",
+      "score": 3,
+      "price": 340.89
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "price": 214.81
+    },
+    {
+      "ticker": "SYF",
+      "score": 3,
+      "price": 69.88
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "price": 47.87
+    },
+    {
+      "ticker": "TGT",
+      "score": 3,
+      "price": 121.16
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "price": 54.39
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5353.5,
+      "unrealized_pnl": 351.92,
+      "unrealized_pct": 7.0360000000000005,
+      "current_price": 64.5
+    },
+    "CDW": {
+      "symbol": "CDW",
+      "qty": 45.0,
+      "avg_entry": 109.92,
+      "market_val": 4645.8,
+      "unrealized_pnl": -300.6,
+      "unrealized_pct": -6.077,
+      "current_price": 103.24
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5032.8,
+      "unrealized_pnl": 41.58,
+      "unrealized_pct": 0.8330000000000001,
+      "current_price": 186.4
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.336858,
+      "unrealized_pnl": 0.037255,
+      "unrealized_pct": 12.435,
+      "current_price": 1.3288
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4907.98,
+      "unrealized_pnl": -82.5,
+      "unrealized_pct": -1.653,
+      "current_price": 223.09
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4814.88,
+      "unrealized_pnl": -105.76,
+      "unrealized_pct": -2.149,
+      "current_price": 150.465
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ANET",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 136.55
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 50.74
+    },
+    {
+      "ticker": "JPM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 299.84
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 207.4
+    },
+    {
+      "ticker": "NKE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 42.42
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 26.88
+    },
+    {
+      "ticker": "RL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 340.89
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 214.81
+    },
+    {
+      "ticker": "SYF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 69.88
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.87
+    },
+    {
+      "ticker": "TGT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 121.16
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 54.39
+    },
+    {
+      "ticker": "AEP",
+      "score": 2,
+      "action": "",
+      "price": 130.7
+    },
+    {
+      "ticker": "APTV",
+      "score": 2,
+      "action": "",
+      "price": 55.76
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 182.96
+    },
+    {
+      "ticker": "CDW",
+      "score": 2,
+      "action": "HOLD",
+      "price": 102.54
+    },
+    {
+      "ticker": "CFG",
+      "score": 2,
+      "action": "",
+      "price": 62.44
+    },
+    {
+      "ticker": "CME",
+      "score": 2,
+      "action": "",
+      "price": 282.58
+    },
+    {
+      "ticker": "DG",
+      "score": 2,
+      "action": "",
+      "price": 104.93
+    },
+    {
+      "ticker": "DIS",
+      "score": 2,
+      "action": "",
+      "price": 104.99
+    },
+    {
+      "ticker": "DTE",
+      "score": 2,
+      "action": "",
+      "price": 142.19
+    },
+    {
+      "ticker": "EMN",
+      "score": 2,
+      "action": "",
+      "price": 74.64
+    },
+    {
+      "ticker": "FCX",
+      "score": 2,
+      "action": "",
+      "price": 63.23
+    },
+    {
+      "ticker": "FITB",
+      "score": 2,
+      "action": "",
+      "price": 48.76
+    },
+    {
+      "ticker": "GIS",
+      "score": 2,
+      "action": "",
+      "price": 34.35
+    },
+    {
+      "ticker": "HAS",
+      "score": 2,
+      "action": "",
+      "price": 95.18
+    },
+    {
+      "ticker": "HUBB",
+      "score": 2,
+      "action": "",
+      "price": 487.38
+    },
+    {
+      "ticker": "KEY",
+      "score": 2,
+      "action": "",
+      "price": 21.3
+    },
+    {
+      "ticker": "KKR",
+      "score": 2,
+      "action": "",
+      "price": 98.62
+    },
+    {
+      "ticker": "LDOS",
+      "score": 2,
+      "action": "",
+      "price": 129.05
+    }
+  ],
+  "errors": []
+}
