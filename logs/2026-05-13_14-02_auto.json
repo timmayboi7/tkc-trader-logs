@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "timestamp": "2026-05-13 14:02",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 31,
+    "portfolio_value": 101471.13,
+    "cash": 78217.24,
+    "buying_power": 176691.28
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "price": 133.39
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "price": 127.94
+    },
+    {
+      "ticker": "AMT",
+      "score": 3,
+      "price": 173.87
+    },
+    {
+      "ticker": "ATO",
+      "score": 3,
+      "price": 180.13
+    },
+    {
+      "ticker": "AXON",
+      "score": 3,
+      "price": 378.31
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "price": 50.06
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "price": 60.59
+    },
+    {
+      "ticker": "CPRT",
+      "score": 3,
+      "price": 32.84
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "price": 214.74
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "price": 57.97
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "price": 47.33
+    },
+    {
+      "ticker": "GIS",
+      "score": 3,
+      "price": 33.73
+    },
+    {
+      "ticker": "IT",
+      "score": 3,
+      "price": 144.94
+    },
+    {
+      "ticker": "KEY",
+      "score": 3,
+      "price": 20.8
+    },
+    {
+      "ticker": "KIM",
+      "score": 3,
+      "price": 23.07
+    },
+    {
+      "ticker": "MSCI",
+      "score": 3,
+      "price": 566.86
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "price": 203.85
+    },
+    {
+      "ticker": "NKE",
+      "score": 3,
+      "price": 42.37
+    },
+    {
+      "ticker": "O",
+      "score": 3,
+      "price": 61.37
+    },
+    {
+      "ticker": "ODFL",
+      "score": 3,
+      "price": 189.16
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5417.41,
+      "unrealized_pnl": 415.83,
+      "unrealized_pct": 8.314,
+      "current_price": 65.27
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 4992.84,
+      "unrealized_pnl": 1.62,
+      "unrealized_pct": 0.032,
+      "current_price": 184.92
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.339286,
+      "unrealized_pnl": 0.039683,
+      "unrealized_pct": 13.245000000000001,
+      "current_price": 1.33838
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 1.326875353,
+      "avg_entry": 2241.5,
+      "market_val": 2996.747985,
+      "unrealized_pnl": 22.556881,
+      "unrealized_pct": 0.758,
+      "current_price": 2258.5
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5063.19,
+      "unrealized_pnl": 72.71,
+      "unrealized_pct": 1.4569999999999999,
+      "current_price": 230.145
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4783.36,
+      "unrealized_pnl": -137.28,
+      "unrealized_pct": -2.79,
+      "current_price": 149.48
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 133.39
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 127.94
+    },
+    {
+      "ticker": "AMT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 173.87
+    },
+    {
+      "ticker": "ATO",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 180.13
+    },
+    {
+      "ticker": "AXON",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 378.31
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 50.06
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 60.59
+    },
+    {
+      "ticker": "CPRT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 32.84
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 214.74
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 57.97
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.33
+    },
+    {
+      "ticker": "GIS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 33.73
+    },
+    {
+      "ticker": "IT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 144.94
+    },
+    {
+      "ticker": "KEY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 20.8
+    },
+    {
+      "ticker": "KIM",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 23.07
+    },
+    {
+      "ticker": "MSCI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 566.86
+    },
+    {
+      "ticker": "MTB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 203.85
+    },
+    {
+      "ticker": "NKE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 42.37
+    },
+    {
+      "ticker": "O",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 61.37
+    },
+    {
+      "ticker": "ODFL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 189.16
+    },
+    {
+      "ticker": "PNC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 210.34
+    },
+    {
+      "ticker": "PNW",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 98.84
+    },
+    {
+      "ticker": "REG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 76.63
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 26.76
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 212.46
+    },
+    {
+      "ticker": "SNA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 365.53
+    },
+    {
+      "ticker": "SYF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 69.57
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.58
+    },
+    {
+      "ticker": "TGT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 120.76
+    },
+    {
+      "ticker": "TRV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 293.93
+    }
+  ],
+  "errors": []
+}
