@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "timestamp": "2026-05-14 09:02",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 1,
+    "on_watch": 12,
+    "portfolio_value": 101557.56,
+    "cash": 78217.24,
+    "buying_power": 176781.76
+  },
+  "trades": {
+    "buys": [],
+    "closes": [
+      {
+        "ticker": "CVX",
+        "score": -2,
+        "reason": "CLOSE \u2014 signal flipped"
+      }
+    ]
+  },
+  "watch_list": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "price": 132.86
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "price": 128.13
+    },
+    {
+      "ticker": "AXON",
+      "score": 3,
+      "price": 369.48
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "price": 50.31
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "price": 61.36
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "price": 215.18
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "price": 57.44
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "price": 47.95
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "price": 26.89
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "price": 214.75
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "price": 47.27
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "price": 53.67
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5412.015,
+      "unrealized_pnl": 410.435,
+      "unrealized_pct": 8.206,
+      "current_price": 65.205
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5041.98,
+      "unrealized_pnl": 50.76,
+      "unrealized_pct": 1.0170000000000001,
+      "current_price": 186.74
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.335235,
+      "unrealized_pnl": 0.035632,
+      "unrealized_pct": 11.892999999999999,
+      "current_price": 1.3224
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 1.326875353,
+      "avg_entry": 2241.5,
+      "market_val": 2992.714284,
+      "unrealized_pnl": 18.52318,
+      "unrealized_pct": 0.623,
+      "current_price": 2255.46
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5096.96,
+      "unrealized_pnl": 106.48,
+      "unrealized_pct": 2.1340000000000003,
+      "current_price": 231.68
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4796.32,
+      "unrealized_pnl": -124.32,
+      "unrealized_pct": -2.527,
+      "current_price": 149.885
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 132.86
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 128.13
+    },
+    {
+      "ticker": "AXON",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 369.48
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 50.31
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 61.36
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 215.18
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 57.44
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.95
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 26.89
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 214.75
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.27
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 53.67
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 109.38
+    },
+    {
+      "ticker": "ANET",
+      "score": 2,
+      "action": "",
+      "price": 144.4
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 180.34
+    },
+    {
+      "ticker": "CCI",
+      "score": 2,
+      "action": "",
+      "price": 88.76
+    },
+    {
+      "ticker": "CE",
+      "score": 2,
+      "action": "",
+      "price": 59.47
+    },
+    {
+      "ticker": "CF",
+      "score": 2,
+      "action": "",
+      "price": 123.36
+    },
+    {
+      "ticker": "CPRT",
+      "score": 2,
+      "action": "",
+      "price": 32.92
+    },
+    {
+      "ticker": "CPT",
+      "score": 2,
+      "action": "",
+      "price": 104.45
+    },
+    {
+      "ticker": "CTSH",
+      "score": 2,
+      "action": "",
+      "price": 46.12
+    },
+    {
+      "ticker": "DE",
+      "score": 2,
+      "action": "",
+      "price": 584.63
+    },
+    {
+      "ticker": "DIS",
+      "score": 2,
+      "action": "",
+      "price": 105.51
+    },
+    {
+      "ticker": "DXCM",
+      "score": 2,
+      "action": "",
+      "price": 58.35
+    },
+    {
+      "ticker": "EPAM",
+      "score": 2,
+      "action": "",
+      "price": 90.92
+    },
+    {
+      "ticker": "EVRG",
+      "score": 2,
+      "action": "",
+      "price": 82.73
+    },
+    {
+      "ticker": "GIS",
+      "score": 2,
+      "action": "",
+      "price": 33.85
+    },
+    {
+      "ticker": "GRMN",
+      "score": 2,
+      "action": "",
+      "price": 231.29
+    },
+    {
+      "ticker": "HUBB",
+      "score": 2,
+      "action": "",
+      "price": 482.31
+    },
+    {
+      "ticker": "INCY",
+      "score": 2,
+      "action": "",
+      "price": 98.96
+    }
+  ],
+  "errors": []
+}
