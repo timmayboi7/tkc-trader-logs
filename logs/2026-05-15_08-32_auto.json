@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "timestamp": "2026-05-15 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 495,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 17,
+    "portfolio_value": 101537.1,
+    "cash": 78217.24,
+    "buying_power": 176772.63
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "price": 133.67
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "price": 128.6
+    },
+    {
+      "ticker": "ALB",
+      "score": 3,
+      "price": 183.89
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "price": 49.88
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "price": 61.19
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "price": 211.87
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "price": 57.9
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "price": 47.72
+    },
+    {
+      "ticker": "K",
+      "score": 3,
+      "price": 299.72
+    },
+    {
+      "ticker": "KEY",
+      "score": 3,
+      "price": 21.05
+    },
+    {
+      "ticker": "KKR",
+      "score": 3,
+      "price": 23.15
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "price": 26.76
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "price": 213.75
+    },
+    {
+      "ticker": "SBAC",
+      "score": 3,
+      "price": 201.04
+    },
+    {
+      "ticker": "SNA",
+      "score": 3,
+      "price": 364.72
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "price": 46.84
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "price": 53.17
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5376.74,
+      "unrealized_pnl": 375.16,
+      "unrealized_pct": 7.5009999999999994,
+      "current_price": 64.78
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5091.39,
+      "unrealized_pnl": 100.17,
+      "unrealized_pct": 2.007,
+      "current_price": 188.57
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.336427,
+      "unrealized_pnl": 0.036824,
+      "unrealized_pct": 12.291,
+      "current_price": 1.3271
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 1.326875353,
+      "avg_entry": 2241.5,
+      "market_val": 2981.369499,
+      "unrealized_pnl": 7.178395,
+      "unrealized_pct": 0.241,
+      "current_price": 2246.91
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5084.42,
+      "unrealized_pnl": 93.94,
+      "unrealized_pct": 1.882,
+      "current_price": 231.11
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4785.6,
+      "unrealized_pnl": -135.04,
+      "unrealized_pct": -2.7439999999999998,
+      "current_price": 149.55
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ABNB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 133.67
+    },
+    {
+      "ticker": "AEP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 128.6
+    },
+    {
+      "ticker": "ALB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 183.89
+    },
+    {
+      "ticker": "BAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 49.88
+    },
+    {
+      "ticker": "CFG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 61.19
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 211.87
+    },
+    {
+      "ticker": "ETSY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 57.9
+    },
+    {
+      "ticker": "FITB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 47.72
+    },
+    {
+      "ticker": "K",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 299.72
+    },
+    {
+      "ticker": "KEY",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 21.05
+    },
+    {
+      "ticker": "KKR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 23.15
+    },
+    {
+      "ticker": "RF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 26.76
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 213.75
+    },
+    {
+      "ticker": "SBAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 201.04
+    },
+    {
+      "ticker": "SNA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 364.72
+    },
+    {
+      "ticker": "TFC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.84
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 53.17
+    },
+    {
+      "ticker": "ANET",
+      "score": 2,
+      "action": "",
+      "price": 144.67
+    },
+    {
+      "ticker": "ATO",
+      "score": 2,
+      "action": "",
+      "price": 180.99
+    },
+    {
+      "ticker": "BIIB",
+      "score": 2,
+      "action": "",
+      "price": 191.37
+    },
+    {
+      "ticker": "CE",
+      "score": 2,
+      "action": "",
+      "price": 57.47
+    },
+    {
+      "ticker": "CF",
+      "score": 2,
+      "action": "",
+      "price": 124.39
+    },
+    {
+      "ticker": "CPB",
+      "score": 2,
+      "action": "",
+      "price": 20.35
+    },
+    {
+      "ticker": "D",
+      "score": 2,
+      "action": "",
+      "price": 62.78
+    },
+    {
+      "ticker": "DIS",
+      "score": 2,
+      "action": "",
+      "price": 105.28
+    },
+    {
+      "ticker": "EIX",
+      "score": 2,
+      "action": "",
+      "price": 70.01
+    },
+    {
+      "ticker": "FCX",
+      "score": 2,
+      "action": "",
+      "price": 61.92
+    },
+    {
+      "ticker": "FTV",
+      "score": 2,
+      "action": "",
+      "price": 58.97
+    },
+    {
+      "ticker": "GRMN",
+      "score": 2,
+      "action": "",
+      "price": 231.07
+    },
+    {
+      "ticker": "ILMN",
+      "score": 2,
+      "action": "",
+      "price": 75.25
+    }
+  ],
+  "errors": []
+}
