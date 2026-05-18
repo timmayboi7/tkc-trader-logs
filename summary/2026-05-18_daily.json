@@ -57,9 +57,17 @@
       "exits": 0,
       "portfolio_value": 99273.1,
       "tickers_scanned": 497
+    },
+    {
+      "time": "2026-05-18 14:02",
+      "cycle_type": "crypto",
+      "entries": 2,
+      "exits": 0,
+      "portfolio_value": 99658.13,
+      "tickers_scanned": 18
     }
   ],
-  "final_portfolio": 99273.1,
-  "total_entries": 7,
+  "final_portfolio": 99658.13,
+  "total_entries": 9,
   "total_exits": 0
 }
