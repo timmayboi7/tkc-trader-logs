@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "timestamp": "2026-05-19 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 26,
+    "portfolio_value": 100027.41,
+    "cash": 16065.25,
+    "buying_power": 52726.14
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "AEE",
+      "score": 3,
+      "price": 107.38
+    },
+    {
+      "ticker": "ALB",
+      "score": 3,
+      "price": 172.0
+    },
+    {
+      "ticker": "AME",
+      "score": 3,
+      "price": 222.23
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "price": 293.04
+    },
+    {
+      "ticker": "BA",
+      "score": 3,
+      "price": 218.03
+    },
+    {
+      "ticker": "C",
+      "score": 3,
+      "price": 121.15
+    },
+    {
+      "ticker": "DLR",
+      "score": 3,
+      "price": 186.71
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "price": 207.59
+    },
+    {
+      "ticker": "EMN",
+      "score": 3,
+      "price": 69.6
+    },
+    {
+      "ticker": "ETN",
+      "score": 3,
+      "price": 371.4
+    },
+    {
+      "ticker": "EXR",
+      "score": 3,
+      "price": 138.1
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "price": 993.86
+    },
+    {
+      "ticker": "HCA",
+      "score": 3,
+      "price": 413.39
+    },
+    {
+      "ticker": "JCI",
+      "score": 3,
+      "price": 135.6
+    },
+    {
+      "ticker": "LCID",
+      "score": 3,
+      "price": 5.65
+    },
+    {
+      "ticker": "MAS",
+      "score": 3,
+      "price": 64.31
+    },
+    {
+      "ticker": "NDSN",
+      "score": 3,
+      "price": 273.07
+    },
+    {
+      "ticker": "NEE",
+      "score": 3,
+      "price": 88.71
+    },
+    {
+      "ticker": "NI",
+      "score": 3,
+      "price": 46.33
+    },
+    {
+      "ticker": "PKG",
+      "score": 3,
+      "price": 208.02
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5511.2,
+      "unrealized_pnl": 509.62,
+      "unrealized_pct": 10.189,
+      "current_price": 66.4
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.038342119,
+      "avg_entry": 76292.74,
+      "market_val": 2935.510973,
+      "unrealized_pnl": 10.285657,
+      "unrealized_pct": 0.35200000000000004,
+      "current_price": 76561.0
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5253.39,
+      "unrealized_pnl": 262.17,
+      "unrealized_pct": 5.253,
+      "current_price": 194.57
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 28191.976211948,
+      "avg_entry": 0.103904,
+      "market_val": 2921.534495,
+      "unrealized_pnl": -7.724601,
+      "unrealized_pct": -0.264,
+      "current_price": 0.10363
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.312086,
+      "unrealized_pnl": 0.012483,
+      "unrealized_pct": 4.167,
+      "current_price": 1.23108415
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 45690.383238,
+      "unrealized_pnl": -1711.775787,
+      "unrealized_pct": -3.611,
+      "current_price": 2107.229096
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5026.89,
+      "unrealized_pnl": 36.41,
+      "unrealized_pct": 0.73,
+      "current_price": 228.495
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 217.653022959,
+      "avg_entry": 53.806383947,
+      "market_val": 11818.7768,
+      "unrealized_pnl": 107.654679,
+      "unrealized_pct": 0.919,
+      "current_price": 54.301
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "qty": 32.0,
+      "avg_entry": 153.77,
+      "market_val": 4804.16,
+      "unrealized_pnl": -116.48,
+      "unrealized_pct": -2.367,
+      "current_price": 150.13
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "AEE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 107.38
+    },
+    {
+      "ticker": "ALB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 172.0
+    },
+    {
+      "ticker": "AME",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 222.23
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 293.04
+    },
+    {
+      "ticker": "BA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 218.03
+    },
+    {
+      "ticker": "C",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 121.15
+    },
+    {
+      "ticker": "DLR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 186.71
+    },
+    {
+      "ticker": "DOV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 207.59
+    },
+    {
+      "ticker": "EMN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 69.6
+    },
+    {
+      "ticker": "ETN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 371.4
+    },
+    {
+      "ticker": "EXR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 138.1
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 993.86
+    },
+    {
+      "ticker": "HCA",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 413.39
+    },
+    {
+      "ticker": "JCI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 135.6
+    },
+    {
+      "ticker": "LCID",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 5.65
+    },
+    {
+      "ticker": "MAS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 64.31
+    },
+    {
+      "ticker": "NDSN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 273.07
+    },
+    {
+      "ticker": "NEE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 88.71
+    },
+    {
+      "ticker": "NI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.33
+    },
+    {
+      "ticker": "PKG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 208.02
+    },
+    {
+      "ticker": "ROST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 210.22
+    },
+    {
+      "ticker": "SBAC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 202.53
+    },
+    {
+      "ticker": "SWK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 74.08
+    },
+    {
+      "ticker": "TT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 456.61
+    },
+    {
+      "ticker": "USB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 52.85
+    },
+    {
+      "ticker": "WAB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 257.9
+    },
+    {
+      "ticker": "AEP",
+      "score": 2,
+      "action": "",
+      "price": 127.68
+    },
+    {
+      "ticker": "AMAT",
+      "score": 2,
+      "action": "",
+      "price": 413.57
+    },
+    {
+      "ticker": "AMGN",
+      "score": 2,
+      "action": "",
+      "price": 324.39
+    },
+    {
+      "ticker": "ANET",
+      "score": 2,
+      "action": "",
+      "price": 139.43
+    }
+  ],
+  "errors": []
+}
