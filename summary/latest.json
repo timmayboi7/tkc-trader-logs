@@ -1,310 +1,133 @@
 {
   "meta": {
     "timestamp": "2026-05-22 09:01",
-    "cycle_type": "auto",
+    "cycle_type": "crypto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 497,
+    "tickers_scanned": 18,
     "entries": 0,
-    "exits": 1,
-    "on_watch": 5,
-    "portfolio_value": 100617.7,
+    "exits": 0,
+    "on_watch": 0,
+    "portfolio_value": 100602.5,
     "cash": -2762.24,
-    "buying_power": 10241.48
+    "buying_power": 10226.28
   },
   "trades": {
     "buys": [],
-    "closes": [
-      {
-        "ticker": "JNJ",
-        "score": -3,
-        "reason": "CLOSE \u2014 signal flipped"
-      }
-    ]
+    "closes": []
   },
-  "watch_list": [
-    {
-      "ticker": "AMP",
-      "score": 3,
-      "price": 456.03
-    },
-    {
-      "ticker": "HAS",
-      "score": 3,
-      "price": 89.97
-    },
-    {
-      "ticker": "TT",
-      "score": 3,
-      "price": 447.82
-    },
-    {
-      "ticker": "WAB",
-      "score": 3,
-      "price": 255.69
-    },
-    {
-      "ticker": "WMT",
-      "score": 3,
-      "price": 119.75
-    }
-  ],
-  "open_positions": {
-    "BKR": {
-      "symbol": "BKR",
-      "qty": 83.0,
-      "avg_entry": 60.26,
-      "market_val": 5444.8,
-      "unrealized_pnl": 443.22,
-      "unrealized_pct": 8.862,
-      "current_price": 65.6
-    },
-    "BTCUSD": {
-      "symbol": "BTCUSD",
-      "qty": 0.114941499,
-      "avg_entry": 76475.237275449,
-      "market_val": 8872.620972,
-      "unrealized_pnl": 82.442563,
-      "unrealized_pct": 0.938,
-      "current_price": 77192.494
-    },
-    "CVX": {
-      "symbol": "CVX",
-      "qty": 27.0,
-      "avg_entry": 184.86,
-      "market_val": 5166.45,
-      "unrealized_pnl": 175.23,
-      "unrealized_pct": 3.511,
-      "current_price": 191.35
-    },
-    "DOGEUSD": {
-      "symbol": "DOGEUSD",
-      "qty": 169768.818972025,
-      "avg_entry": 0.103788857,
-      "market_val": 17992.269203,
-      "unrealized_pnl": 372.157528,
-      "unrealized_pct": 2.112,
-      "current_price": 0.105981
-    },
-    "DOTUSD": {
-      "symbol": "DOTUSD",
-      "qty": 0.253505272,
-      "avg_entry": 1.18184,
-      "market_val": 0.337644,
-      "unrealized_pnl": 0.038041,
-      "unrealized_pct": 12.697,
-      "current_price": 1.3319
-    },
-    "ETHUSD": {
-      "symbol": "ETHUSD",
-      "qty": 21.682684301,
-      "avg_entry": 2186.175768975,
-      "market_val": 46067.031066,
-      "unrealized_pnl": -1335.127959,
-      "unrealized_pct": -2.817,
-      "current_price": 2124.6
-    },
-    "JNJ": {
-      "symbol": "JNJ",
-      "qty": 22.0,
-      "avg_entry": 226.84,
-      "market_val": 5154.71,
-      "unrealized_pnl": 164.23,
-      "unrealized_pct": 3.2910000000000004,
-      "current_price": 234.305
-    },
-    "LTCUSD": {
-      "symbol": "LTCUSD",
-      "qty": 272.060135664,
-      "avg_entry": 53.809082954,
-      "market_val": 14681.725221,
-      "unrealized_pnl": 42.418813,
-      "unrealized_pct": 0.29,
-      "current_price": 53.965
-    }
-  },
+  "watch_list": [],
+  "open_positions": {},
   "top_signals": [
     {
-      "ticker": "AMP",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 456.03
-    },
-    {
-      "ticker": "HAS",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 89.97
-    },
-    {
-      "ticker": "TT",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 447.82
-    },
-    {
-      "ticker": "WAB",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 255.69
-    },
-    {
-      "ticker": "WMT",
-      "score": 3,
-      "action": "WATCH \u2014 near threshold",
-      "price": 119.75
-    },
-    {
-      "ticker": "ABNB",
-      "score": 2,
-      "action": "",
-      "price": 132.76
-    },
-    {
-      "ticker": "AEE",
-      "score": 2,
-      "action": "",
-      "price": 110.5
-    },
-    {
-      "ticker": "ALB",
-      "score": 2,
-      "action": "",
-      "price": 174.57
-    },
-    {
-      "ticker": "AME",
-      "score": 2,
-      "action": "",
-      "price": 223.75
-    },
-    {
-      "ticker": "APA",
-      "score": 2,
-      "action": "",
-      "price": 39.03
-    },
-    {
-      "ticker": "BA",
-      "score": 2,
-      "action": "",
-      "price": 218.48
-    },
-    {
-      "ticker": "CAG",
-      "score": 2,
-      "action": "",
-      "price": 13.56
-    },
-    {
-      "ticker": "CNP",
-      "score": 2,
-      "action": "",
-      "price": 42.61
-    },
-    {
-      "ticker": "COP",
-      "score": 2,
-      "action": "",
-      "price": 121.3
-    },
-    {
-      "ticker": "COST",
-      "score": 2,
-      "action": "",
-      "price": 1038.35
-    },
-    {
-      "ticker": "CVX",
-      "score": 2,
+      "ticker": "BTC/USD",
+      "score": 1,
       "action": "HOLD",
-      "price": 191.43
+      "price": 77099.640625
     },
     {
-      "ticker": "DOW",
-      "score": 2,
-      "action": "",
-      "price": 36.38
-    },
-    {
-      "ticker": "HCA",
-      "score": 2,
-      "action": "",
-      "price": 394.83
-    },
-    {
-      "ticker": "HLT",
-      "score": 2,
-      "action": "",
-      "price": 321.0
-    },
-    {
-      "ticker": "INTU",
-      "score": 2,
-      "action": "",
-      "price": 309.16
-    },
-    {
-      "ticker": "JCI",
-      "score": 2,
-      "action": "",
-      "price": 136.96
-    },
-    {
-      "ticker": "LYB",
-      "score": 2,
-      "action": "",
-      "price": 70.75
-    },
-    {
-      "ticker": "NEE",
-      "score": 2,
-      "action": "",
-      "price": 89.5
-    },
-    {
-      "ticker": "OXY",
-      "score": 2,
-      "action": "",
-      "price": 59.06
-    },
-    {
-      "ticker": "SO",
-      "score": 2,
-      "action": "",
-      "price": 94.51
-    },
-    {
-      "ticker": "XEL",
-      "score": 2,
-      "action": "",
-      "price": 80.77
-    },
-    {
-      "ticker": "XOM",
-      "score": 2,
-      "action": "",
-      "price": 155.37
-    },
-    {
-      "ticker": "ABT",
+      "ticker": "BCH/USD",
       "score": 1,
-      "action": "",
-      "price": 88.26
+      "action": "HOLD",
+      "price": 377.720001
     },
     {
-      "ticker": "AKAM",
-      "score": 1,
-      "action": "",
-      "price": 147.27
+      "ticker": "ETH/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 2124.840088
     },
     {
-      "ticker": "ALLE",
-      "score": 1,
-      "action": "",
-      "price": 130.23
+      "ticker": "SOL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 87.099998
+    },
+    {
+      "ticker": "XRP/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.3576
+    },
+    {
+      "ticker": "AVAX/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 9.51
+    },
+    {
+      "ticker": "DOGE/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.10618
+    },
+    {
+      "ticker": "LINK/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 9.935
+    },
+    {
+      "ticker": "LTC/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 54.130001
+    },
+    {
+      "ticker": "ALGO/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.1164
+    },
+    {
+      "ticker": "XLM/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.147969
+    },
+    {
+      "ticker": "FIL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 1.031
+    },
+    {
+      "ticker": "ICP/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 2.699
+    },
+    {
+      "ticker": "BNB/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 663.099976
+    },
+    {
+      "ticker": "ADA/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 0.2514
+    },
+    {
+      "ticker": "ATOM/USD",
+      "score": -1,
+      "action": "HOLD",
+      "price": 2.139
+    },
+    {
+      "ticker": "NEAR/USD",
+      "score": -2,
+      "action": "HOLD",
+      "price": 2.279
+    },
+    {
+      "ticker": "DOT/USD",
+      "score": -3,
+      "action": "HOLD",
+      "price": 1.328
     }
   ],
   "errors": []
