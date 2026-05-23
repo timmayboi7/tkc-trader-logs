@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "timestamp": "2026-05-23 09:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 1,
+    "on_watch": 6,
+    "portfolio_value": 97081.29,
+    "cash": -5689.4,
+    "buying_power": 4428.27
+  },
+  "trades": {
+    "buys": [],
+    "closes": [
+      {
+        "ticker": "JNJ",
+        "score": -3,
+        "reason": "CLOSE \u2014 signal flipped"
+      }
+    ]
+  },
+  "watch_list": [
+    {
+      "ticker": "AMP",
+      "score": 3,
+      "price": 452.31
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "price": 289.47
+    },
+    {
+      "ticker": "DOW",
+      "score": 3,
+      "price": 36.01
+    },
+    {
+      "ticker": "LYB",
+      "score": 3,
+      "price": 69.72
+    },
+    {
+      "ticker": "NEE",
+      "score": 3,
+      "price": 88.55
+    },
+    {
+      "ticker": "WMT",
+      "score": 3,
+      "price": 120.27
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5482.98,
+      "unrealized_pnl": 481.4,
+      "unrealized_pct": 9.625,
+      "current_price": 66.06
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.153102602,
+      "avg_entry": 76484.944720378,
+      "market_val": 11512.764501,
+      "unrealized_pnl": -197.27955,
+      "unrealized_pct": -1.685,
+      "current_price": 75196.4
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5168.61,
+      "unrealized_pnl": 177.39,
+      "unrealized_pct": 3.5540000000000003,
+      "current_price": 191.43
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 169768.818972025,
+      "avg_entry": 0.103788857,
+      "market_val": 16919.737713,
+      "unrealized_pnl": -700.373962,
+      "unrealized_pct": -3.975,
+      "current_price": 0.0996634
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.308009,
+      "unrealized_pnl": 0.008406,
+      "unrealized_pct": 2.806,
+      "current_price": 1.215
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 44302.060564,
+      "unrealized_pnl": -3100.098461,
+      "unrealized_pct": -6.54,
+      "current_price": 2043.2
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5155.48,
+      "unrealized_pnl": 165.0,
+      "unrealized_pct": 3.306,
+      "current_price": 234.34
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 272.060135664,
+      "avg_entry": 53.809082954,
+      "market_val": 14228.745095,
+      "unrealized_pnl": -410.561313,
+      "unrealized_pct": -2.8049999999999997,
+      "current_price": 52.3
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "AMP",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 452.31
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 289.47
+    },
+    {
+      "ticker": "DOW",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 36.01
+    },
+    {
+      "ticker": "LYB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 69.72
+    },
+    {
+      "ticker": "NEE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 88.55
+    },
+    {
+      "ticker": "WMT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 120.27
+    },
+    {
+      "ticker": "ABNB",
+      "score": 2,
+      "action": "",
+      "price": 132.35
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 111.29
+    },
+    {
+      "ticker": "AIG",
+      "score": 2,
+      "action": "",
+      "price": 77.05
+    },
+    {
+      "ticker": "ALB",
+      "score": 2,
+      "action": "",
+      "price": 171.58
+    },
+    {
+      "ticker": "AME",
+      "score": 2,
+      "action": "",
+      "price": 224.52
+    },
+    {
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 38.8
+    },
+    {
+      "ticker": "BA",
+      "score": 2,
+      "action": "",
+      "price": 219.02
+    },
+    {
+      "ticker": "CAG",
+      "score": 2,
+      "action": "",
+      "price": 13.56
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 327.89
+    },
+    {
+      "ticker": "CHD",
+      "score": 2,
+      "action": "",
+      "price": 96.25
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 42.83
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 120.46
+    },
+    {
+      "ticker": "COST",
+      "score": 2,
+      "action": "",
+      "price": 1028.24
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "HOLD",
+      "price": 191.43
+    },
+    {
+      "ticker": "HCA",
+      "score": 2,
+      "action": "",
+      "price": 394.07
+    },
+    {
+      "ticker": "HLT",
+      "score": 2,
+      "action": "",
+      "price": 321.08
+    },
+    {
+      "ticker": "MLM",
+      "score": 2,
+      "action": "",
+      "price": 536.48
+    },
+    {
+      "ticker": "OXY",
+      "score": 2,
+      "action": "",
+      "price": 58.81
+    },
+    {
+      "ticker": "RF",
+      "score": 2,
+      "action": "",
+      "price": 27.83
+    },
+    {
+      "ticker": "SO",
+      "score": 2,
+      "action": "",
+      "price": 94.55
+    },
+    {
+      "ticker": "TT",
+      "score": 2,
+      "action": "",
+      "price": 451.02
+    },
+    {
+      "ticker": "TTWO",
+      "score": 2,
+      "action": "",
+      "price": 227.55
+    },
+    {
+      "ticker": "UHS",
+      "score": 2,
+      "action": "",
+      "price": 157.8
+    },
+    {
+      "ticker": "XOM",
+      "score": 2,
+      "action": "",
+      "price": 154.92
+    }
+  ],
+  "errors": []
+}
