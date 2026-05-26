@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "timestamp": "2026-05-26 08:32",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 496,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 2,
+    "portfolio_value": 99470.16,
+    "cash": -5689.4,
+    "buying_power": 4365.27
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "APD",
+      "score": 3,
+      "price": 288.07
+    },
+    {
+      "ticker": "WMT",
+      "score": 3,
+      "price": 120.0
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5486.3,
+      "unrealized_pnl": 484.72,
+      "unrealized_pct": 9.690999999999999,
+      "current_price": 66.1
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.153102602,
+      "avg_entry": 76484.944720378,
+      "market_val": 11752.331032,
+      "unrealized_pnl": 42.286981,
+      "unrealized_pct": 0.361,
+      "current_price": 76761.145
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5132.43,
+      "unrealized_pnl": 141.21,
+      "unrealized_pct": 2.8289999999999997,
+      "current_price": 190.09
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 169768.818972025,
+      "avg_entry": 0.103788857,
+      "market_val": 17397.908568,
+      "unrealized_pnl": -222.203107,
+      "unrealized_pct": -1.261,
+      "current_price": 0.10248
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.322225,
+      "unrealized_pnl": 0.022622,
+      "unrealized_pct": 7.550999999999999,
+      "current_price": 1.27108
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 45878.391712,
+      "unrealized_pnl": -1523.767313,
+      "unrealized_pct": -3.215,
+      "current_price": 2115.9
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5125.34,
+      "unrealized_pnl": 134.86,
+      "unrealized_pct": 2.702,
+      "current_price": 232.97
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 272.060135664,
+      "avg_entry": 53.809082954,
+      "market_val": 14386.539974,
+      "unrealized_pnl": -252.766434,
+      "unrealized_pct": -1.727,
+      "current_price": 52.88
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "APD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 288.07
+    },
+    {
+      "ticker": "WMT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 120.0
+    },
+    {
+      "ticker": "ABNB",
+      "score": 2,
+      "action": "",
+      "price": 132.35
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 111.29
+    },
+    {
+      "ticker": "AIG",
+      "score": 2,
+      "action": "",
+      "price": 77.22
+    },
+    {
+      "ticker": "ALB",
+      "score": 2,
+      "action": "",
+      "price": 175.7
+    },
+    {
+      "ticker": "APA",
+      "score": 2,
+      "action": "",
+      "price": 38.8
+    },
+    {
+      "ticker": "CAG",
+      "score": 2,
+      "action": "",
+      "price": 13.53
+    },
+    {
+      "ticker": "CB",
+      "score": 2,
+      "action": "",
+      "price": 326.02
+    },
+    {
+      "ticker": "CHD",
+      "score": 2,
+      "action": "",
+      "price": 95.92
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 118.59
+    },
+    {
+      "ticker": "COST",
+      "score": 2,
+      "action": "",
+      "price": 1028.24
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "HOLD",
+      "price": 189.57
+    },
+    {
+      "ticker": "DOW",
+      "score": 2,
+      "action": "",
+      "price": 36.24
+    },
+    {
+      "ticker": "EOG",
+      "score": 2,
+      "action": "",
+      "price": 138.83
+    },
+    {
+      "ticker": "FCX",
+      "score": 2,
+      "action": "",
+      "price": 63.44
+    },
+    {
+      "ticker": "FITB",
+      "score": 2,
+      "action": "",
+      "price": 49.54
+    },
+    {
+      "ticker": "GDDY",
+      "score": 2,
+      "action": "",
+      "price": 89.46
+    },
+    {
+      "ticker": "HCA",
+      "score": 2,
+      "action": "",
+      "price": 390.38
+    },
+    {
+      "ticker": "LYB",
+      "score": 2,
+      "action": "",
+      "price": 69.89
+    },
+    {
+      "ticker": "MOH",
+      "score": 2,
+      "action": "",
+      "price": 177.37
+    },
+    {
+      "ticker": "OXY",
+      "score": 2,
+      "action": "",
+      "price": 58.38
+    },
+    {
+      "ticker": "PSX",
+      "score": 2,
+      "action": "",
+      "price": 174.74
+    },
+    {
+      "ticker": "SO",
+      "score": 2,
+      "action": "",
+      "price": 94.43
+    },
+    {
+      "ticker": "TGT",
+      "score": 2,
+      "action": "",
+      "price": 125.73
+    },
+    {
+      "ticker": "TMO",
+      "score": 2,
+      "action": "",
+      "price": 445.45
+    },
+    {
+      "ticker": "UHS",
+      "score": 2,
+      "action": "",
+      "price": 154.49
+    },
+    {
+      "ticker": "USB",
+      "score": 2,
+      "action": "",
+      "price": 55.18
+    },
+    {
+      "ticker": "WBD",
+      "score": 2,
+      "action": "",
+      "price": 26.93
+    },
+    {
+      "ticker": "XOM",
+      "score": 2,
+      "action": "",
+      "price": 153.36
+    }
+  ],
+  "errors": []
+}
