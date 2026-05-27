@@ -17,9 +17,17 @@
       "exits": 0,
       "portfolio_value": 97529.91,
       "tickers_scanned": 18
+    },
+    {
+      "time": "2026-05-27 09:01",
+      "cycle_type": "auto",
+      "entries": 0,
+      "exits": 1,
+      "portfolio_value": 97064.93,
+      "tickers_scanned": 497
     }
   ],
-  "final_portfolio": 97529.91,
+  "final_portfolio": 97064.93,
   "total_entries": 0,
-  "total_exits": 0
+  "total_exits": 1
 }
