@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "timestamp": "2026-05-28 11:01",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 496,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 7,
+    "portfolio_value": 94482.88,
+    "cash": -5689.4,
+    "buying_power": 4016.07
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "ALL",
+      "score": 3,
+      "price": 209.0
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "price": 284.58
+    },
+    {
+      "ticker": "EG",
+      "score": 3,
+      "price": 337.96
+    },
+    {
+      "ticker": "HAL",
+      "score": 3,
+      "price": 39.44
+    },
+    {
+      "ticker": "PNR",
+      "score": 3,
+      "price": 71.02
+    },
+    {
+      "ticker": "PODD",
+      "score": 3,
+      "price": 143.67
+    },
+    {
+      "ticker": "TSN",
+      "score": 3,
+      "price": 63.4
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5351.84,
+      "unrealized_pnl": 350.26,
+      "unrealized_pct": 7.002999999999999,
+      "current_price": 64.48
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.153102602,
+      "avg_entry": 76484.944720378,
+      "market_val": 11145.765316,
+      "unrealized_pnl": -564.278735,
+      "unrealized_pct": -4.819,
+      "current_price": 72799.32
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 4955.85,
+      "unrealized_pnl": -35.37,
+      "unrealized_pct": -0.709,
+      "current_price": 183.55
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 169768.818972025,
+      "avg_entry": 0.103788857,
+      "market_val": 16622.065066,
+      "unrealized_pnl": -998.046609,
+      "unrealized_pct": -5.664000000000001,
+      "current_price": 0.09791
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.302604,
+      "unrealized_pnl": 0.003001,
+      "unrealized_pct": 1.002,
+      "current_price": 1.19368
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 43081.108611,
+      "unrealized_pnl": -4321.050414,
+      "unrealized_pct": -9.116,
+      "current_price": 1986.89
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5087.72,
+      "unrealized_pnl": 97.24,
+      "unrealized_pct": 1.949,
+      "current_price": 231.26
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 272.060135664,
+      "avg_entry": 53.809082954,
+      "market_val": 13928.173057,
+      "unrealized_pnl": -711.133351,
+      "unrealized_pct": -4.858,
+      "current_price": 51.1952
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "ALL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 209.0
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 284.58
+    },
+    {
+      "ticker": "EG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 337.96
+    },
+    {
+      "ticker": "HAL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 39.44
+    },
+    {
+      "ticker": "PNR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 71.02
+    },
+    {
+      "ticker": "PODD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 143.67
+    },
+    {
+      "ticker": "TSN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 63.4
+    },
+    {
+      "ticker": "ABNB",
+      "score": 2,
+      "action": "",
+      "price": 132.06
+    },
+    {
+      "ticker": "AEE",
+      "score": 2,
+      "action": "",
+      "price": 109.64
+    },
+    {
+      "ticker": "AIG",
+      "score": 2,
+      "action": "",
+      "price": 75.19
+    },
+    {
+      "ticker": "ANET",
+      "score": 2,
+      "action": "",
+      "price": 155.57
+    },
+    {
+      "ticker": "AWK",
+      "score": 2,
+      "action": "",
+      "price": 123.25
+    },
+    {
+      "ticker": "AZO",
+      "score": 2,
+      "action": "",
+      "price": 3014.35
+    },
+    {
+      "ticker": "BSX",
+      "score": 2,
+      "action": "",
+      "price": 49.21
+    },
+    {
+      "ticker": "CF",
+      "score": 2,
+      "action": "",
+      "price": 116.99
+    },
+    {
+      "ticker": "CFG",
+      "score": 2,
+      "action": "",
+      "price": 62.24
+    },
+    {
+      "ticker": "CINF",
+      "score": 2,
+      "action": "",
+      "price": 160.71
+    },
+    {
+      "ticker": "CNP",
+      "score": 2,
+      "action": "",
+      "price": 42.58
+    },
+    {
+      "ticker": "COP",
+      "score": 2,
+      "action": "",
+      "price": 114.93
+    },
+    {
+      "ticker": "CSGP",
+      "score": 2,
+      "action": "",
+      "price": 32.42
+    },
+    {
+      "ticker": "DOW",
+      "score": 2,
+      "action": "",
+      "price": 34.95
+    },
+    {
+      "ticker": "DVN",
+      "score": 2,
+      "action": "",
+      "price": 44.4
+    },
+    {
+      "ticker": "EIX",
+      "score": 2,
+      "action": "",
+      "price": 70.67
+    },
+    {
+      "ticker": "FITB",
+      "score": 2,
+      "action": "",
+      "price": 49.58
+    },
+    {
+      "ticker": "HCA",
+      "score": 2,
+      "action": "",
+      "price": 389.44
+    },
+    {
+      "ticker": "JCI",
+      "score": 2,
+      "action": "",
+      "price": 136.22
+    },
+    {
+      "ticker": "LNT",
+      "score": 2,
+      "action": "",
+      "price": 72.69
+    },
+    {
+      "ticker": "LYB",
+      "score": 2,
+      "action": "",
+      "price": 69.21
+    },
+    {
+      "ticker": "MDT",
+      "score": 2,
+      "action": "",
+      "price": 75.56
+    },
+    {
+      "ticker": "NFLX",
+      "score": 2,
+      "action": "",
+      "price": 86.12
+    }
+  ],
+  "errors": []
+}
