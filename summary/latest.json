@@ -1,157 +1,379 @@
 {
   "meta": {
-    "timestamp": "2026-05-29 11:02",
-    "cycle_type": "crypto",
+    "timestamp": "2026-05-29 14:01",
+    "cycle_type": "auto",
     "machine": "primary",
     "dry_run": false
   },
   "summary": {
-    "tickers_scanned": 18,
-    "entries": 1,
+    "tickers_scanned": 497,
+    "entries": 0,
     "exits": 0,
-    "on_watch": 3,
-    "portfolio_value": 96124.29,
+    "on_watch": 25,
+    "portfolio_value": 95397.82,
     "cash": -5689.4,
-    "buying_power": 3905.95
+    "buying_power": 3895.35
   },
   "trades": {
-    "buys": [
-      {
-        "ticker": "BTC/USD",
-        "score": 3,
-        "price": 73652.007812,
-        "stop": 68865.936167,
-        "target": 81309.722445
-      }
-    ],
+    "buys": [],
     "closes": []
   },
   "watch_list": [
     {
-      "ticker": "DOGE/USD",
-      "score": 2,
-      "price": 0.10024
+      "ticker": "EG",
+      "score": 4,
+      "price": 325.66
     },
     {
-      "ticker": "BCH/USD",
-      "score": 2,
-      "price": 305.269989
+      "ticker": "RMD",
+      "score": 4,
+      "price": 193.16
     },
     {
-      "ticker": "ICP/USD",
-      "score": 2,
-      "price": 2.739
+      "ticker": "ALL",
+      "score": 3,
+      "price": 207.97
+    },
+    {
+      "ticker": "APD",
+      "score": 3,
+      "price": 279.34
+    },
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "price": 122.25
+    },
+    {
+      "ticker": "CF",
+      "score": 3,
+      "price": 111.85
+    },
+    {
+      "ticker": "COST",
+      "score": 3,
+      "price": 952.99
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "price": 957.1
+    },
+    {
+      "ticker": "HAL",
+      "score": 3,
+      "price": 39.03
+    },
+    {
+      "ticker": "HII",
+      "score": 3,
+      "price": 307.36
+    },
+    {
+      "ticker": "KEYS",
+      "score": 3,
+      "price": 332.57
+    },
+    {
+      "ticker": "LYB",
+      "score": 3,
+      "price": 66.32
+    },
+    {
+      "ticker": "MDT",
+      "score": 3,
+      "price": 74.08
+    },
+    {
+      "ticker": "NI",
+      "score": 3,
+      "price": 46.33
+    },
+    {
+      "ticker": "NSC",
+      "score": 3,
+      "price": 304.92
+    },
+    {
+      "ticker": "OKE",
+      "score": 3,
+      "price": 84.59
+    },
+    {
+      "ticker": "PODD",
+      "score": 3,
+      "price": 142.3
+    },
+    {
+      "ticker": "REG",
+      "score": 3,
+      "price": 77.21
+    },
+    {
+      "ticker": "SBUX",
+      "score": 3,
+      "price": 99.15
+    },
+    {
+      "ticker": "SNPS",
+      "score": 3,
+      "price": 473.15
     }
   ],
-  "open_positions": {},
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5392.4685,
+      "unrealized_pnl": 390.8885,
+      "unrealized_pct": 7.8149999999999995,
+      "current_price": 64.9695
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.153102602,
+      "avg_entry": 76484.944720378,
+      "market_val": 11220.523785,
+      "unrealized_pnl": -489.520266,
+      "unrealized_pct": -4.18,
+      "current_price": 73287.61
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 4921.56,
+      "unrealized_pnl": -69.66,
+      "unrealized_pct": -1.396,
+      "current_price": 182.28
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 169768.818972025,
+      "avg_entry": 0.103788857,
+      "market_val": 17027.812543,
+      "unrealized_pnl": -592.299132,
+      "unrealized_pct": -3.361,
+      "current_price": 0.1003
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.305474,
+      "unrealized_pnl": 0.005871,
+      "unrealized_pct": 1.96,
+      "current_price": 1.205
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 43505.829031,
+      "unrealized_pnl": -3896.329994,
+      "unrealized_pct": -8.219999999999999,
+      "current_price": 2006.478
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 4960.12,
+      "unrealized_pnl": -30.36,
+      "unrealized_pct": -0.608,
+      "current_price": 225.46
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 272.060135664,
+      "avg_entry": 53.809082954,
+      "market_val": 14058.598686,
+      "unrealized_pnl": -580.707722,
+      "unrealized_pct": -3.9669999999999996,
+      "current_price": 51.6746
+    }
+  },
   "top_signals": [
     {
-      "ticker": "BTC/USD",
+      "ticker": "EG",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 325.66
+    },
+    {
+      "ticker": "RMD",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 193.16
+    },
+    {
+      "ticker": "ALL",
       "score": 3,
-      "action": "BUY",
-      "price": 73652.007812
+      "action": "WATCH \u2014 near threshold",
+      "price": 207.97
     },
     {
-      "ticker": "DOGE/USD",
+      "ticker": "APD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 279.34
+    },
+    {
+      "ticker": "AWK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 122.25
+    },
+    {
+      "ticker": "CF",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 111.85
+    },
+    {
+      "ticker": "COST",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 952.99
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 957.1
+    },
+    {
+      "ticker": "HAL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 39.03
+    },
+    {
+      "ticker": "HII",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 307.36
+    },
+    {
+      "ticker": "KEYS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 332.57
+    },
+    {
+      "ticker": "LYB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 66.32
+    },
+    {
+      "ticker": "MDT",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 74.08
+    },
+    {
+      "ticker": "NI",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 46.33
+    },
+    {
+      "ticker": "NSC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 304.92
+    },
+    {
+      "ticker": "OKE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 84.59
+    },
+    {
+      "ticker": "PODD",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 142.3
+    },
+    {
+      "ticker": "REG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 77.21
+    },
+    {
+      "ticker": "SBUX",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 99.15
+    },
+    {
+      "ticker": "SNPS",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 473.15
+    },
+    {
+      "ticker": "TRV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 293.83
+    },
+    {
+      "ticker": "TSN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 61.45
+    },
+    {
+      "ticker": "VTR",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 83.59
+    },
+    {
+      "ticker": "WELL",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 205.8
+    },
+    {
+      "ticker": "WMB",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 71.74
+    },
+    {
+      "ticker": "APA",
       "score": 2,
-      "action": "WATCH",
-      "price": 0.10024
+      "action": "",
+      "price": 36.14
     },
     {
-      "ticker": "BCH/USD",
+      "ticker": "AZO",
       "score": 2,
-      "action": "WATCH",
-      "price": 305.269989
+      "action": "",
+      "price": 2943.7
     },
     {
-      "ticker": "ICP/USD",
+      "ticker": "BALL",
       "score": 2,
-      "action": "WATCH",
-      "price": 2.739
+      "action": "",
+      "price": 55.15
     },
     {
-      "ticker": "BNB/USD",
-      "score": 1,
-      "action": "HOLD",
-      "price": 638.859985
+      "ticker": "BSX",
+      "score": 2,
+      "action": "",
+      "price": 48.29
     },
     {
-      "ticker": "ETH/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 2029.5
-    },
-    {
-      "ticker": "SOL/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 82.459999
-    },
-    {
-      "ticker": "XRP/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 1.3188
-    },
-    {
-      "ticker": "ADA/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.2352
-    },
-    {
-      "ticker": "AVAX/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 8.91
-    },
-    {
-      "ticker": "DOT/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 1.219
-    },
-    {
-      "ticker": "LINK/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 9.065
-    },
-    {
-      "ticker": "ATOM/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 2.028
-    },
-    {
-      "ticker": "LTC/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 52.139999
-    },
-    {
-      "ticker": "ALGO/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.117
-    },
-    {
-      "ticker": "FIL/USD",
-      "score": 0,
-      "action": "HOLD",
-      "price": 0.971
-    },
-    {
-      "ticker": "NEAR/USD",
-      "score": -1,
-      "action": "HOLD",
-      "price": 2.531
-    },
-    {
-      "ticker": "XLM/USD",
-      "score": -2,
-      "action": "HOLD",
-      "price": 0.214412
+      "ticker": "CAG",
+      "score": 2,
+      "action": "",
+      "price": 13.39
     }
   ],
   "errors": []
