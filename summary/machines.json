@@ -1,11 +1,11 @@
 {
   "primary": {
-    "last_seen": "2026-06-02 14:01",
-    "last_cycle_type": "crypto",
-    "portfolio_value": 90435.92,
+    "last_seen": "2026-06-03 08:32",
+    "last_cycle_type": "auto",
+    "portfolio_value": 89316.51,
     "cash": -5689.4,
-    "tickers_scanned": 18,
-    "entries": 1,
+    "tickers_scanned": 497,
+    "entries": 0,
     "exits": 0
   },
   "dads-pc": {
