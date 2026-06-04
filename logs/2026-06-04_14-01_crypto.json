@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "timestamp": "2026-06-04 14:01",
+    "cycle_type": "crypto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 18,
+    "entries": 3,
+    "exits": 0,
+    "on_watch": 12,
+    "portfolio_value": 85837.8,
+    "cash": -5689.4,
+    "buying_power": 8473.16
+  },
+  "trades": {
+    "buys": [
+      {
+        "ticker": "BNB/USD",
+        "score": 3,
+        "price": 608.280029,
+        "stop": 540.599144,
+        "target": 716.569446
+      },
+      {
+        "ticker": "ATOM/USD",
+        "score": 3,
+        "price": 1.824,
+        "stop": 1.555535,
+        "target": 2.253543
+      },
+      {
+        "ticker": "ALGO/USD",
+        "score": 3,
+        "price": 0.1028,
+        "stop": 0.082508,
+        "target": 0.135267
+      }
+    ],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "BTC/USD",
+      "score": 2,
+      "price": 63715.53125
+    },
+    {
+      "ticker": "ETH/USD",
+      "score": 2,
+      "price": 1773.670044
+    },
+    {
+      "ticker": "SOL/USD",
+      "score": 2,
+      "price": 69.43
+    },
+    {
+      "ticker": "XRP/USD",
+      "score": 2,
+      "price": 1.1775
+    },
+    {
+      "ticker": "ADA/USD",
+      "score": 2,
+      "price": 0.1883
+    },
+    {
+      "ticker": "AVAX/USD",
+      "score": 2,
+      "price": 7.8
+    },
+    {
+      "ticker": "DOGE/USD",
+      "score": 2,
+      "price": 0.0895
+    },
+    {
+      "ticker": "DOT/USD",
+      "score": 2,
+      "price": 1.064
+    },
+    {
+      "ticker": "LINK/USD",
+      "score": 2,
+      "price": 8.079
+    },
+    {
+      "ticker": "LTC/USD",
+      "score": 2,
+      "price": 46.43
+    },
+    {
+      "ticker": "BCH/USD",
+      "score": 2,
+      "price": 251.399994
+    },
+    {
+      "ticker": "ICP/USD",
+      "score": 2,
+      "price": 2.802
+    }
+  ],
+  "open_positions": {},
+  "top_signals": [
+    {
+      "ticker": "BNB/USD",
+      "score": 3,
+      "action": "BUY",
+      "price": 608.280029
+    },
+    {
+      "ticker": "ATOM/USD",
+      "score": 3,
+      "action": "BUY",
+      "price": 1.824
+    },
+    {
+      "ticker": "ALGO/USD",
+      "score": 3,
+      "action": "BUY",
+      "price": 0.1028
+    },
+    {
+      "ticker": "BTC/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 63715.53125
+    },
+    {
+      "ticker": "ETH/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 1773.670044
+    },
+    {
+      "ticker": "SOL/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 69.43
+    },
+    {
+      "ticker": "XRP/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 1.1775
+    },
+    {
+      "ticker": "ADA/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 0.1883
+    },
+    {
+      "ticker": "AVAX/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 7.8
+    },
+    {
+      "ticker": "DOGE/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 0.0895
+    },
+    {
+      "ticker": "DOT/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 1.064
+    },
+    {
+      "ticker": "LINK/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 8.079
+    },
+    {
+      "ticker": "LTC/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 46.43
+    },
+    {
+      "ticker": "BCH/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 251.399994
+    },
+    {
+      "ticker": "ICP/USD",
+      "score": 2,
+      "action": "WATCH",
+      "price": 2.802
+    },
+    {
+      "ticker": "XLM/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 0.209474
+    },
+    {
+      "ticker": "NEAR/USD",
+      "score": 1,
+      "action": "HOLD",
+      "price": 2.379
+    },
+    {
+      "ticker": "FIL/USD",
+      "score": 0,
+      "action": "HOLD",
+      "price": 0.9
+    }
+  ],
+  "errors": []
+}
