@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "timestamp": "2026-06-05 08:31",
+    "cycle_type": "auto",
+    "machine": "primary",
+    "dry_run": false
+  },
+  "summary": {
+    "tickers_scanned": 497,
+    "entries": 0,
+    "exits": 0,
+    "on_watch": 10,
+    "portfolio_value": 81980.69,
+    "cash": -5689.4,
+    "buying_power": 8419.44
+  },
+  "trades": {
+    "buys": [],
+    "closes": []
+  },
+  "watch_list": [
+    {
+      "ticker": "CHTR",
+      "score": 4,
+      "price": 129.05
+    },
+    {
+      "ticker": "LULU",
+      "score": 4,
+      "price": 111.48
+    },
+    {
+      "ticker": "SBUX",
+      "score": 4,
+      "price": 93.85
+    },
+    {
+      "ticker": "AMZN",
+      "score": 3,
+      "price": 253.6
+    },
+    {
+      "ticker": "BLK",
+      "score": 3,
+      "price": 1006.32
+    },
+    {
+      "ticker": "CBOE",
+      "score": 3,
+      "price": 283.83
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "price": 943.58
+    },
+    {
+      "ticker": "GOOG",
+      "score": 3,
+      "price": 362.87
+    },
+    {
+      "ticker": "KHC",
+      "score": 3,
+      "price": 22.26
+    },
+    {
+      "ticker": "LYV",
+      "score": 3,
+      "price": 161.25
+    }
+  ],
+  "open_positions": {
+    "BKR": {
+      "symbol": "BKR",
+      "qty": 83.0,
+      "avg_entry": 60.26,
+      "market_val": 5424.05,
+      "unrealized_pnl": 422.47,
+      "unrealized_pct": 8.447000000000001,
+      "current_price": 65.35
+    },
+    "BTCUSD": {
+      "symbol": "BTCUSD",
+      "qty": 0.153102602,
+      "avg_entry": 76484.944720378,
+      "market_val": 9514.88731,
+      "unrealized_pnl": -2195.156741,
+      "unrealized_pct": -18.746,
+      "current_price": 62147.13
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "qty": 27.0,
+      "avg_entry": 184.86,
+      "market_val": 5103.81,
+      "unrealized_pnl": 112.59,
+      "unrealized_pct": 2.2560000000000002,
+      "current_price": 189.03
+    },
+    "DOGEUSD": {
+      "symbol": "DOGEUSD",
+      "qty": 169768.818972025,
+      "avg_entry": 0.103788857,
+      "market_val": 14290.748713,
+      "unrealized_pnl": -3329.362962,
+      "unrealized_pct": -18.895,
+      "current_price": 0.0841777
+    },
+    "DOTUSD": {
+      "symbol": "DOTUSD",
+      "qty": 0.253505272,
+      "avg_entry": 1.18184,
+      "market_val": 0.253954,
+      "unrealized_pnl": -0.045649,
+      "unrealized_pct": -15.235999999999999,
+      "current_price": 1.00177
+    },
+    "ETHUSD": {
+      "symbol": "ETHUSD",
+      "qty": 21.682684301,
+      "avg_entry": 2186.175768975,
+      "market_val": 36149.956699,
+      "unrealized_pnl": -11252.202326,
+      "unrealized_pct": -23.738,
+      "current_price": 1667.227
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "qty": 22.0,
+      "avg_entry": 226.84,
+      "market_val": 5060.66,
+      "unrealized_pnl": 70.18,
+      "unrealized_pct": 1.406,
+      "current_price": 230.03
+    },
+    "LTCUSD": {
+      "symbol": "LTCUSD",
+      "qty": 272.060135664,
+      "avg_entry": 53.809082954,
+      "market_val": 12125.720247,
+      "unrealized_pnl": -2513.586161,
+      "unrealized_pct": -17.169999999999998,
+      "current_price": 44.57
+    }
+  },
+  "top_signals": [
+    {
+      "ticker": "CHTR",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 129.05
+    },
+    {
+      "ticker": "LULU",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 111.48
+    },
+    {
+      "ticker": "SBUX",
+      "score": 4,
+      "action": "WATCH \u2014 near threshold",
+      "price": 93.85
+    },
+    {
+      "ticker": "AMZN",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 253.6
+    },
+    {
+      "ticker": "BLK",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 1006.32
+    },
+    {
+      "ticker": "CBOE",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 283.83
+    },
+    {
+      "ticker": "GEV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 943.58
+    },
+    {
+      "ticker": "GOOG",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 362.87
+    },
+    {
+      "ticker": "KHC",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 22.26
+    },
+    {
+      "ticker": "LYV",
+      "score": 3,
+      "action": "WATCH \u2014 near threshold",
+      "price": 161.25
+    },
+    {
+      "ticker": "AME",
+      "score": 2,
+      "action": "",
+      "price": 227.29
+    },
+    {
+      "ticker": "ANET",
+      "score": 2,
+      "action": "",
+      "price": 159.71
+    },
+    {
+      "ticker": "APH",
+      "score": 2,
+      "action": "",
+      "price": 143.0
+    },
+    {
+      "ticker": "AVGO",
+      "score": 2,
+      "action": "",
+      "price": 407.24
+    },
+    {
+      "ticker": "BALL",
+      "score": 2,
+      "action": "",
+      "price": 52.78
+    },
+    {
+      "ticker": "CL",
+      "score": 2,
+      "action": "",
+      "price": 85.99
+    },
+    {
+      "ticker": "CMCSA",
+      "score": 2,
+      "action": "",
+      "price": 23.44
+    },
+    {
+      "ticker": "CVX",
+      "score": 2,
+      "action": "HOLD",
+      "price": 189.0
+    },
+    {
+      "ticker": "EMR",
+      "score": 2,
+      "action": "",
+      "price": 140.45
+    },
+    {
+      "ticker": "ETN",
+      "score": 2,
+      "action": "",
+      "price": 406.9
+    },
+    {
+      "ticker": "FANG",
+      "score": 2,
+      "action": "",
+      "price": 202.6
+    },
+    {
+      "ticker": "FCX",
+      "score": 2,
+      "action": "",
+      "price": 66.75
+    },
+    {
+      "ticker": "FIS",
+      "score": 2,
+      "action": "",
+      "price": 41.74
+    },
+    {
+      "ticker": "GOOGL",
+      "score": 2,
+      "action": "",
+      "price": 365.7
+    },
+    {
+      "ticker": "GPN",
+      "score": 2,
+      "action": "",
+      "price": 67.4
+    },
+    {
+      "ticker": "HWM",
+      "score": 2,
+      "action": "",
+      "price": 248.63
+    },
+    {
+      "ticker": "INTC",
+      "score": 2,
+      "action": "",
+      "price": 105.31
+    },
+    {
+      "ticker": "KO",
+      "score": 2,
+      "action": "",
+      "price": 77.62
+    },
+    {
+      "ticker": "LCID",
+      "score": 2,
+      "action": "",
+      "price": 5.67
+    },
+    {
+      "ticker": "LUV",
+      "score": 2,
+      "action": "",
+      "price": 41.38
+    }
+  ],
+  "errors": []
+}
